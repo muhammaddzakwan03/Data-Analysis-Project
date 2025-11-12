@@ -79,7 +79,7 @@ restaurant_sales_dashboard :
 ---
 
 ## Author
-**Muhammad Dzakwan**  
+**Muhammad Dzakwan Al Khairi**  
 Data Enthusiast | Universitas Brawijaya  
 [alkhairidzakwan@gmail.com]  
 [https://www.linkedin.com/in/mdzakwanalkhairi/]
@@ -87,4 +87,4 @@ Data Enthusiast | Universitas Brawijaya
 ---
 
 ## Lisensi
-MIT License © 2025 Muhammad Dzakwan
+MIT License 2025 Muhammad Dzakwan
