@@ -49,7 +49,7 @@ restaurant_sales_dashboard :
 
 ---
 
-## ⚙️ Proses Analisis
+## Proses Analisis
 ### 1. Python
 - Mengubah format tanggal ke `YYYY-MM-DD`
 - Menangani nilai kosong pada kolom `transaction_type`
@@ -67,7 +67,7 @@ restaurant_sales_dashboard :
 
 ---
 
-## 📁 File Penting
+## File Penting
 | File | Deskripsi |
 |------|------------|
 | `data/raw_food_sales.csv` | Data mentah penjualan restoran |
@@ -78,11 +78,11 @@ restaurant_sales_dashboard :
 
 ---
 
-## 👤 Author
+## Author
 **Muhammad Dzakwan**  
-🎓 Data Enthusiast| Universitas Brawijaya  
-📧 [alkhairidzakwan@gmail.com]  
-🔗 [https://www.linkedin.com/in/mdzakwanalkhairi/]
+Data Enthusiast | Universitas Brawijaya  
+[alkhairidzakwan@gmail.com]  
+[https://www.linkedin.com/in/mdzakwanalkhairi/]
 
 ---
 
