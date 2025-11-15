@@ -1,0 +1,1001 @@
+order_id,date,item_name,item_type,item_price,quantity,transaction_amount,transaction_type,received_by,time_of_sale,month,year,month_year,day_name,quarter
+1,2022-07-03,Aalopuri,Fastfood,20,13,260,unknown,Male,Night,Jul,2022,Jul 2022,Sunday,2022Q3
+2,2022-08-23,Vadapav,Fastfood,20,15,300,Cash,Male,Afternoon,Aug,2022,Aug 2022,Tuesday,2022Q3
+3,2022-11-20,Vadapav,Fastfood,20,1,20,Cash,Male,Afternoon,Nov,2022,Nov 2022,Sunday,2022Q4
+4,2023-02-03,Sugarcane juice,Beverages,25,6,150,Online,Male,Night,Feb,2023,Feb 2023,Friday,2023Q1
+5,2022-10-02,Sugarcane juice,Beverages,25,8,200,Online,Male,Evening,Oct,2022,Oct 2022,Sunday,2022Q4
+6,2022-11-14,Vadapav,Fastfood,20,10,200,Cash,Male,Evening,Nov,2022,Nov 2022,Monday,2022Q4
+7,2022-05-03,Sugarcane juice,Beverages,25,9,225,Cash,Male,Evening,May,2022,May 2022,Tuesday,2022Q2
+8,2022-12-22,Panipuri,Fastfood,20,14,280,Online,Male,Night,Dec,2022,Dec 2022,Thursday,2022Q4
+9,2022-06-10,Panipuri,Fastfood,20,1,20,Cash,Female,Morning,Jun,2022,Jun 2022,Friday,2022Q2
+10,2022-09-16,Panipuri,Fastfood,20,5,100,Online,Male,Afternoon,Sep,2022,Sep 2022,Friday,2022Q3
+11,2022-12-01,Frankie,Fastfood,50,8,400,Online,Female,Afternoon,Dec,2022,Dec 2022,Thursday,2022Q4
+12,2022-07-12,Vadapav,Fastfood,20,8,160,Online,Female,Night,Jul,2022,Jul 2022,Tuesday,2022Q3
+13,2022-12-22,Panipuri,Fastfood,20,9,180,Online,Female,Afternoon,Dec,2022,Dec 2022,Thursday,2022Q4
+14,2022-11-25,Frankie,Fastfood,50,4,200,Online,Male,Morning,Nov,2022,Nov 2022,Friday,2022Q4
+15,2023-02-03,Aalopuri,Fastfood,20,3,60,Cash,Female,Evening,Feb,2023,Feb 2023,Friday,2023Q1
+16,2022-04-14,Sandwich,Fastfood,60,11,660,unknown,Female,Midnight,Apr,2022,Apr 2022,Thursday,2022Q2
+17,2022-10-16,Panipuri,Fastfood,20,11,220,Cash,Female,Morning,Oct,2022,Oct 2022,Sunday,2022Q4
+18,2022-11-05,Panipuri,Fastfood,20,10,200,Cash,Female,Night,Nov,2022,Nov 2022,Saturday,2022Q4
+19,2022-08-22,Panipuri,Fastfood,20,11,220,Cash,Female,Night,Aug,2022,Aug 2022,Monday,2022Q3
+20,2022-09-15,Cold coffee,Beverages,40,10,400,Online,Male,Night,Sep,2022,Sep 2022,Thursday,2022Q3
+21,2022-12-21,Cold coffee,Beverages,40,15,600,Cash,Male,Evening,Dec,2022,Dec 2022,Wednesday,2022Q4
+22,2022-10-04,Sugarcane juice,Beverages,25,12,300,Online,Male,Evening,Oct,2022,Oct 2022,Tuesday,2022Q4
+23,2022-05-26,Sandwich,Fastfood,60,3,180,Online,Male,Midnight,May,2022,May 2022,Thursday,2022Q2
+24,2023-02-11,Sugarcane juice,Beverages,25,10,250,Online,Male,Afternoon,Feb,2023,Feb 2023,Saturday,2023Q1
+25,2022-08-31,Sandwich,Fastfood,60,1,60,Online,Female,Evening,Aug,2022,Aug 2022,Wednesday,2022Q3
+26,2022-08-18,Sugarcane juice,Beverages,25,4,100,Cash,Male,Afternoon,Aug,2022,Aug 2022,Thursday,2022Q3
+27,2022-10-12,Cold coffee,Beverages,40,11,440,Online,Female,Afternoon,Oct,2022,Oct 2022,Wednesday,2022Q4
+28,2023-01-06,Cold coffee,Beverages,40,10,400,Online,Female,Afternoon,Jan,2023,Jan 2023,Friday,2023Q1
+29,2023-02-10,Sugarcane juice,Beverages,25,9,225,Online,Male,Afternoon,Feb,2023,Feb 2023,Friday,2023Q1
+30,2023-01-28,Frankie,Fastfood,50,2,100,Cash,Female,Night,Jan,2023,Jan 2023,Saturday,2023Q1
+31,2022-09-14,Cold coffee,Beverages,40,13,520,Online,Female,Evening,Sep,2022,Sep 2022,Wednesday,2022Q3
+32,2022-05-06,Aalopuri,Fastfood,20,4,80,unknown,Male,Morning,May,2022,May 2022,Friday,2022Q2
+33,2023-02-05,Aalopuri,Fastfood,20,13,260,Online,Male,Night,Feb,2023,Feb 2023,Sunday,2023Q1
+34,2023-02-04,Frankie,Fastfood,50,12,600,Online,Female,Evening,Feb,2023,Feb 2023,Saturday,2023Q1
+35,2022-05-22,Vadapav,Fastfood,20,8,160,Cash,Male,Morning,May,2022,May 2022,Sunday,2022Q2
+36,2022-07-02,Cold coffee,Beverages,40,10,400,Online,Male,Afternoon,Jul,2022,Jul 2022,Saturday,2022Q3
+37,2023-01-05,Frankie,Fastfood,50,10,500,Cash,Male,Night,Jan,2023,Jan 2023,Thursday,2023Q1
+38,2023-03-08,Panipuri,Fastfood,20,12,240,Online,Female,Night,Mar,2023,Mar 2023,Wednesday,2023Q1
+39,2022-05-14,Vadapav,Fastfood,20,2,40,Online,Male,Evening,May,2022,May 2022,Saturday,2022Q2
+40,2023-02-05,Sandwich,Fastfood,60,5,300,Online,Female,Night,Feb,2023,Feb 2023,Sunday,2023Q1
+41,2022-11-13,Cold coffee,Beverages,40,11,440,unknown,Male,Afternoon,Nov,2022,Nov 2022,Sunday,2022Q4
+42,2022-05-09,Aalopuri,Fastfood,20,8,160,Online,Female,Night,May,2022,May 2022,Monday,2022Q2
+43,2022-05-26,Vadapav,Fastfood,20,1,20,Cash,Male,Night,May,2022,May 2022,Thursday,2022Q2
+44,2022-08-28,Cold coffee,Beverages,40,12,480,Cash,Male,Evening,Aug,2022,Aug 2022,Sunday,2022Q3
+45,2022-08-15,Sugarcane juice,Beverages,25,6,150,Cash,Female,Afternoon,Aug,2022,Aug 2022,Monday,2022Q3
+46,2022-05-07,Vadapav,Fastfood,20,7,140,Cash,Male,Evening,May,2022,May 2022,Saturday,2022Q2
+47,2022-07-10,Sandwich,Fastfood,60,7,420,unknown,Male,Morning,Jul,2022,Jul 2022,Sunday,2022Q3
+48,2023-02-23,Sandwich,Fastfood,60,14,840,Online,Male,Afternoon,Feb,2023,Feb 2023,Thursday,2023Q1
+49,2022-11-06,Frankie,Fastfood,50,4,200,Online,Female,Morning,Nov,2022,Nov 2022,Sunday,2022Q4
+50,2022-11-02,Vadapav,Fastfood,20,8,160,Cash,Female,Midnight,Nov,2022,Nov 2022,Wednesday,2022Q4
+51,2022-05-16,Frankie,Fastfood,50,15,750,Online,Female,Morning,May,2022,May 2022,Monday,2022Q2
+52,2023-03-16,Sugarcane juice,Beverages,25,12,300,Cash,Female,Midnight,Mar,2023,Mar 2023,Thursday,2023Q1
+53,2022-07-26,Aalopuri,Fastfood,20,13,260,Cash,Male,Afternoon,Jul,2022,Jul 2022,Tuesday,2022Q3
+54,2022-12-28,Panipuri,Fastfood,20,14,280,Online,Female,Morning,Dec,2022,Dec 2022,Wednesday,2022Q4
+55,2022-05-07,Sandwich,Fastfood,60,10,600,Cash,Male,Night,May,2022,May 2022,Saturday,2022Q2
+56,2022-11-23,Panipuri,Fastfood,20,11,220,Cash,Female,Midnight,Nov,2022,Nov 2022,Wednesday,2022Q4
+57,2022-08-04,Panipuri,Fastfood,20,14,280,Online,Female,Morning,Aug,2022,Aug 2022,Thursday,2022Q3
+58,2023-02-03,Vadapav,Fastfood,20,6,120,Online,Female,Morning,Feb,2023,Feb 2023,Friday,2023Q1
+59,2022-07-01,Vadapav,Fastfood,20,5,100,Cash,Male,Morning,Jul,2022,Jul 2022,Friday,2022Q3
+60,2022-06-11,Cold coffee,Beverages,40,2,80,Online,Male,Night,Jun,2022,Jun 2022,Saturday,2022Q2
+61,2022-12-25,Vadapav,Fastfood,20,14,280,Cash,Female,Afternoon,Dec,2022,Dec 2022,Sunday,2022Q4
+62,2022-10-17,Sugarcane juice,Beverages,25,3,75,Cash,Male,Afternoon,Oct,2022,Oct 2022,Monday,2022Q4
+63,2022-12-01,Sandwich,Fastfood,60,7,420,Online,Female,Morning,Dec,2022,Dec 2022,Thursday,2022Q4
+64,2022-12-09,Cold coffee,Beverages,40,1,40,Cash,Male,Morning,Dec,2022,Dec 2022,Friday,2022Q4
+65,2022-07-25,Aalopuri,Fastfood,20,4,80,Cash,Male,Morning,Jul,2022,Jul 2022,Monday,2022Q3
+66,2022-04-05,Frankie,Fastfood,50,2,100,Cash,Female,Morning,Apr,2022,Apr 2022,Tuesday,2022Q2
+67,2022-05-15,Aalopuri,Fastfood,20,9,180,Cash,Male,Midnight,May,2022,May 2022,Sunday,2022Q2
+68,2022-12-17,Cold coffee,Beverages,40,2,80,unknown,Male,Night,Dec,2022,Dec 2022,Saturday,2022Q4
+69,2023-01-10,Vadapav,Fastfood,20,7,140,Cash,Male,Midnight,Jan,2023,Jan 2023,Tuesday,2023Q1
+70,2022-05-09,Cold coffee,Beverages,40,14,560,unknown,Female,Morning,May,2022,May 2022,Monday,2022Q2
+71,2022-12-05,Cold coffee,Beverages,40,6,240,Online,Male,Night,Dec,2022,Dec 2022,Monday,2022Q4
+72,2023-03-09,Frankie,Fastfood,50,13,650,Online,Male,Afternoon,Mar,2023,Mar 2023,Thursday,2023Q1
+73,2022-07-29,Panipuri,Fastfood,20,5,100,Cash,Male,Midnight,Jul,2022,Jul 2022,Friday,2022Q3
+74,2022-08-15,Cold coffee,Beverages,40,10,400,Online,Female,Evening,Aug,2022,Aug 2022,Monday,2022Q3
+75,2023-02-02,Cold coffee,Beverages,40,6,240,Online,Female,Afternoon,Feb,2023,Feb 2023,Thursday,2023Q1
+76,2022-08-17,Vadapav,Fastfood,20,9,180,Online,Male,Morning,Aug,2022,Aug 2022,Wednesday,2022Q3
+77,2023-02-04,Sugarcane juice,Beverages,25,12,300,Cash,Female,Midnight,Feb,2023,Feb 2023,Saturday,2023Q1
+78,2022-10-01,Vadapav,Fastfood,20,4,80,Cash,Female,Evening,Oct,2022,Oct 2022,Saturday,2022Q4
+79,2022-11-05,Panipuri,Fastfood,20,6,120,Online,Male,Night,Nov,2022,Nov 2022,Saturday,2022Q4
+80,2022-05-24,Frankie,Fastfood,50,13,650,Cash,Male,Evening,May,2022,May 2022,Tuesday,2022Q2
+81,2022-11-19,Frankie,Fastfood,50,12,600,Online,Female,Night,Nov,2022,Nov 2022,Saturday,2022Q4
+82,2022-07-17,Frankie,Fastfood,50,3,150,Online,Female,Evening,Jul,2022,Jul 2022,Sunday,2022Q3
+83,2022-11-13,Frankie,Fastfood,50,11,550,unknown,Male,Evening,Nov,2022,Nov 2022,Sunday,2022Q4
+84,2023-03-03,Panipuri,Fastfood,20,13,260,Cash,Male,Midnight,Mar,2023,Mar 2023,Friday,2023Q1
+85,2022-08-19,Aalopuri,Fastfood,20,3,60,Online,Female,Night,Aug,2022,Aug 2022,Friday,2022Q3
+86,2023-03-09,Aalopuri,Fastfood,20,15,300,Cash,Male,Morning,Mar,2023,Mar 2023,Thursday,2023Q1
+87,2022-05-29,Aalopuri,Fastfood,20,8,160,Cash,Male,Night,May,2022,May 2022,Sunday,2022Q2
+88,2022-07-07,Cold coffee,Beverages,40,10,400,Cash,Male,Evening,Jul,2022,Jul 2022,Thursday,2022Q3
+89,2022-12-23,Aalopuri,Fastfood,20,14,280,Cash,Male,Evening,Dec,2022,Dec 2022,Friday,2022Q4
+90,2022-10-29,Vadapav,Fastfood,20,15,300,Online,Male,Night,Oct,2022,Oct 2022,Saturday,2022Q4
+91,2023-03-22,Cold coffee,Beverages,40,6,240,unknown,Female,Evening,Mar,2023,Mar 2023,Wednesday,2023Q1
+92,2022-05-13,Aalopuri,Fastfood,20,15,300,Cash,Male,Afternoon,May,2022,May 2022,Friday,2022Q2
+93,2022-07-03,Cold coffee,Beverages,40,2,80,Online,Female,Midnight,Jul,2022,Jul 2022,Sunday,2022Q3
+94,2022-09-14,Aalopuri,Fastfood,20,15,300,unknown,Female,Night,Sep,2022,Sep 2022,Wednesday,2022Q3
+95,2022-05-12,Sugarcane juice,Beverages,25,8,200,Online,Male,Night,May,2022,May 2022,Thursday,2022Q2
+96,2022-08-22,Sandwich,Fastfood,60,15,900,unknown,Male,Morning,Aug,2022,Aug 2022,Monday,2022Q3
+97,2023-03-29,Cold coffee,Beverages,40,13,520,Online,Male,Evening,Mar,2023,Mar 2023,Wednesday,2023Q1
+98,2022-12-24,Vadapav,Fastfood,20,1,20,Online,Male,Morning,Dec,2022,Dec 2022,Saturday,2022Q4
+99,2022-09-11,Sugarcane juice,Beverages,25,3,75,Cash,Male,Evening,Sep,2022,Sep 2022,Sunday,2022Q3
+100,2022-05-08,Panipuri,Fastfood,20,11,220,unknown,Male,Morning,May,2022,May 2022,Sunday,2022Q2
+101,2023-03-26,Vadapav,Fastfood,20,3,60,Online,Female,Morning,Mar,2023,Mar 2023,Sunday,2023Q1
+102,2023-03-13,Cold coffee,Beverages,40,14,560,Cash,Male,Morning,Mar,2023,Mar 2023,Monday,2023Q1
+103,2023-03-14,Cold coffee,Beverages,40,8,320,Online,Female,Midnight,Mar,2023,Mar 2023,Tuesday,2023Q1
+104,2022-10-27,Cold coffee,Beverages,40,13,520,Online,Male,Morning,Oct,2022,Oct 2022,Thursday,2022Q4
+105,2023-01-25,Panipuri,Fastfood,20,8,160,Cash,Female,Evening,Jan,2023,Jan 2023,Wednesday,2023Q1
+106,2023-02-25,Frankie,Fastfood,50,9,450,Cash,Female,Evening,Feb,2023,Feb 2023,Saturday,2023Q1
+107,2023-02-07,Sandwich,Fastfood,60,4,240,Online,Male,Afternoon,Feb,2023,Feb 2023,Tuesday,2023Q1
+108,2022-08-06,Panipuri,Fastfood,20,5,100,Online,Male,Afternoon,Aug,2022,Aug 2022,Saturday,2022Q3
+109,2022-08-08,Cold coffee,Beverages,40,12,480,unknown,Male,Afternoon,Aug,2022,Aug 2022,Monday,2022Q3
+110,2022-11-16,Panipuri,Fastfood,20,2,40,Online,Female,Morning,Nov,2022,Nov 2022,Wednesday,2022Q4
+111,2022-09-04,Sandwich,Fastfood,60,8,480,Cash,Female,Midnight,Sep,2022,Sep 2022,Sunday,2022Q3
+112,2023-02-24,Sandwich,Fastfood,60,7,420,Cash,Male,Morning,Feb,2023,Feb 2023,Friday,2023Q1
+113,2022-12-12,Aalopuri,Fastfood,20,8,160,Cash,Male,Afternoon,Dec,2022,Dec 2022,Monday,2022Q4
+114,2022-08-14,Aalopuri,Fastfood,20,10,200,Online,Male,Afternoon,Aug,2022,Aug 2022,Sunday,2022Q3
+115,2023-01-12,Aalopuri,Fastfood,20,13,260,unknown,Male,Evening,Jan,2023,Jan 2023,Thursday,2023Q1
+116,2022-08-26,Sugarcane juice,Beverages,25,13,325,Cash,Male,Evening,Aug,2022,Aug 2022,Friday,2022Q3
+117,2023-03-09,Frankie,Fastfood,50,7,350,Online,Female,Evening,Mar,2023,Mar 2023,Thursday,2023Q1
+118,2022-07-06,Sandwich,Fastfood,60,1,60,Online,Male,Midnight,Jul,2022,Jul 2022,Wednesday,2022Q3
+119,2022-05-12,Panipuri,Fastfood,20,10,200,Cash,Male,Evening,May,2022,May 2022,Thursday,2022Q2
+120,2022-07-10,Frankie,Fastfood,50,2,100,Cash,Female,Evening,Jul,2022,Jul 2022,Sunday,2022Q3
+121,2022-08-26,Cold coffee,Beverages,40,8,320,Cash,Male,Afternoon,Aug,2022,Aug 2022,Friday,2022Q3
+122,2022-04-24,Panipuri,Fastfood,20,3,60,unknown,Female,Night,Apr,2022,Apr 2022,Sunday,2022Q2
+123,2022-06-09,Cold coffee,Beverages,40,6,240,Online,Male,Evening,Jun,2022,Jun 2022,Thursday,2022Q2
+124,2022-10-14,Sugarcane juice,Beverages,25,13,325,unknown,Female,Evening,Oct,2022,Oct 2022,Friday,2022Q4
+125,2022-04-10,Vadapav,Fastfood,20,7,140,Cash,Female,Midnight,Apr,2022,Apr 2022,Sunday,2022Q2
+126,2022-04-08,Panipuri,Fastfood,20,11,220,Online,Female,Night,Apr,2022,Apr 2022,Friday,2022Q2
+127,2022-12-03,Aalopuri,Fastfood,20,1,20,unknown,Female,Morning,Dec,2022,Dec 2022,Saturday,2022Q4
+128,2022-08-07,Vadapav,Fastfood,20,11,220,Online,Male,Midnight,Aug,2022,Aug 2022,Sunday,2022Q3
+129,2022-10-19,Panipuri,Fastfood,20,13,260,Cash,Female,Morning,Oct,2022,Oct 2022,Wednesday,2022Q4
+130,2022-12-28,Sugarcane juice,Beverages,25,7,175,Cash,Male,Night,Dec,2022,Dec 2022,Wednesday,2022Q4
+131,2023-01-19,Sandwich,Fastfood,60,8,480,Cash,Male,Night,Jan,2023,Jan 2023,Thursday,2023Q1
+132,2022-12-05,Vadapav,Fastfood,20,4,80,Online,Female,Night,Dec,2022,Dec 2022,Monday,2022Q4
+133,2022-12-20,Aalopuri,Fastfood,20,5,100,Online,Male,Midnight,Dec,2022,Dec 2022,Tuesday,2022Q4
+134,2022-07-17,Aalopuri,Fastfood,20,12,240,Online,Female,Night,Jul,2022,Jul 2022,Sunday,2022Q3
+135,2023-01-14,Aalopuri,Fastfood,20,8,160,Online,Male,Midnight,Jan,2023,Jan 2023,Saturday,2023Q1
+136,2022-08-24,Aalopuri,Fastfood,20,15,300,Online,Male,Morning,Aug,2022,Aug 2022,Wednesday,2022Q3
+137,2023-03-19,Sugarcane juice,Beverages,25,6,150,unknown,Male,Afternoon,Mar,2023,Mar 2023,Sunday,2023Q1
+138,2022-09-01,Sandwich,Fastfood,60,15,900,Online,Male,Night,Sep,2022,Sep 2022,Thursday,2022Q3
+139,2023-02-26,Frankie,Fastfood,50,11,550,Online,Female,Night,Feb,2023,Feb 2023,Sunday,2023Q1
+140,2022-06-12,Frankie,Fastfood,50,13,650,Cash,Male,Night,Jun,2022,Jun 2022,Sunday,2022Q2
+141,2022-06-15,Aalopuri,Fastfood,20,4,80,unknown,Male,Evening,Jun,2022,Jun 2022,Wednesday,2022Q2
+142,2022-12-30,Sugarcane juice,Beverages,25,12,300,Cash,Female,Morning,Dec,2022,Dec 2022,Friday,2022Q4
+143,2022-09-18,Frankie,Fastfood,50,8,400,unknown,Female,Afternoon,Sep,2022,Sep 2022,Sunday,2022Q3
+144,2022-11-17,Panipuri,Fastfood,20,10,200,Cash,Female,Evening,Nov,2022,Nov 2022,Thursday,2022Q4
+145,2022-10-09,Sandwich,Fastfood,60,14,840,Online,Male,Morning,Oct,2022,Oct 2022,Sunday,2022Q4
+146,2022-10-28,Frankie,Fastfood,50,4,200,unknown,Female,Afternoon,Oct,2022,Oct 2022,Friday,2022Q4
+147,2022-05-17,Panipuri,Fastfood,20,7,140,Online,Male,Evening,May,2022,May 2022,Tuesday,2022Q2
+148,2023-03-19,Sandwich,Fastfood,60,13,780,Online,Male,Evening,Mar,2023,Mar 2023,Sunday,2023Q1
+149,2022-08-09,Sandwich,Fastfood,60,7,420,Online,Male,Morning,Aug,2022,Aug 2022,Tuesday,2022Q3
+150,2023-01-30,Cold coffee,Beverages,40,14,560,Cash,Male,Afternoon,Jan,2023,Jan 2023,Monday,2023Q1
+151,2022-07-10,Frankie,Fastfood,50,13,650,Online,Female,Morning,Jul,2022,Jul 2022,Sunday,2022Q3
+152,2022-10-24,Cold coffee,Beverages,40,9,360,Online,Male,Afternoon,Oct,2022,Oct 2022,Monday,2022Q4
+153,2022-07-21,Panipuri,Fastfood,20,1,20,Cash,Female,Evening,Jul,2022,Jul 2022,Thursday,2022Q3
+154,2022-12-13,Vadapav,Fastfood,20,3,60,Cash,Male,Night,Dec,2022,Dec 2022,Tuesday,2022Q4
+155,2023-02-07,Sugarcane juice,Beverages,25,10,250,Cash,Female,Evening,Feb,2023,Feb 2023,Tuesday,2023Q1
+156,2023-03-25,Panipuri,Fastfood,20,14,280,Cash,Male,Midnight,Mar,2023,Mar 2023,Saturday,2023Q1
+157,2023-02-24,Frankie,Fastfood,50,7,350,Online,Female,Midnight,Feb,2023,Feb 2023,Friday,2023Q1
+158,2022-05-16,Aalopuri,Fastfood,20,2,40,unknown,Male,Midnight,May,2022,May 2022,Monday,2022Q2
+159,2022-10-03,Sugarcane juice,Beverages,25,1,25,Online,Female,Afternoon,Oct,2022,Oct 2022,Monday,2022Q4
+160,2022-07-23,Vadapav,Fastfood,20,10,200,Online,Male,Night,Jul,2022,Jul 2022,Saturday,2022Q3
+161,2023-01-19,Sugarcane juice,Beverages,25,12,300,Cash,Male,Evening,Jan,2023,Jan 2023,Thursday,2023Q1
+162,2022-05-07,Aalopuri,Fastfood,20,11,220,Cash,Male,Midnight,May,2022,May 2022,Saturday,2022Q2
+163,2023-01-06,Frankie,Fastfood,50,6,300,Online,Female,Midnight,Jan,2023,Jan 2023,Friday,2023Q1
+164,2022-08-10,Sugarcane juice,Beverages,25,7,175,Online,Male,Afternoon,Aug,2022,Aug 2022,Wednesday,2022Q3
+165,2023-01-05,Sandwich,Fastfood,60,11,660,Cash,Male,Midnight,Jan,2023,Jan 2023,Thursday,2023Q1
+166,2022-06-01,Panipuri,Fastfood,20,6,120,Cash,Female,Evening,Jun,2022,Jun 2022,Wednesday,2022Q2
+167,2023-02-23,Cold coffee,Beverages,40,6,240,Cash,Female,Morning,Feb,2023,Feb 2023,Thursday,2023Q1
+168,2022-04-19,Sandwich,Fastfood,60,4,240,Cash,Female,Midnight,Apr,2022,Apr 2022,Tuesday,2022Q2
+169,2022-06-20,Vadapav,Fastfood,20,6,120,Cash,Male,Morning,Jun,2022,Jun 2022,Monday,2022Q2
+170,2023-02-13,Aalopuri,Fastfood,20,6,120,unknown,Female,Afternoon,Feb,2023,Feb 2023,Monday,2023Q1
+171,2023-03-02,Vadapav,Fastfood,20,11,220,Cash,Female,Midnight,Mar,2023,Mar 2023,Thursday,2023Q1
+172,2022-08-27,Sugarcane juice,Beverages,25,6,150,Online,Female,Night,Aug,2022,Aug 2022,Saturday,2022Q3
+173,2023-01-20,Cold coffee,Beverages,40,2,80,Online,Male,Night,Jan,2023,Jan 2023,Friday,2023Q1
+174,2022-09-03,Aalopuri,Fastfood,20,2,40,Online,Male,Evening,Sep,2022,Sep 2022,Saturday,2022Q3
+175,2022-10-17,Frankie,Fastfood,50,12,600,Cash,Female,Afternoon,Oct,2022,Oct 2022,Monday,2022Q4
+176,2022-08-04,Panipuri,Fastfood,20,1,20,Cash,Female,Midnight,Aug,2022,Aug 2022,Thursday,2022Q3
+177,2022-07-21,Panipuri,Fastfood,20,11,220,Online,Female,Morning,Jul,2022,Jul 2022,Thursday,2022Q3
+178,2022-12-09,Aalopuri,Fastfood,20,2,40,Cash,Female,Morning,Dec,2022,Dec 2022,Friday,2022Q4
+179,2023-03-03,Sugarcane juice,Beverages,25,5,125,unknown,Female,Midnight,Mar,2023,Mar 2023,Friday,2023Q1
+180,2022-12-01,Vadapav,Fastfood,20,6,120,Online,Female,Afternoon,Dec,2022,Dec 2022,Thursday,2022Q4
+181,2022-06-09,Cold coffee,Beverages,40,7,280,Cash,Female,Night,Jun,2022,Jun 2022,Thursday,2022Q2
+182,2022-07-02,Cold coffee,Beverages,40,1,40,Cash,Male,Midnight,Jul,2022,Jul 2022,Saturday,2022Q3
+183,2022-07-10,Sugarcane juice,Beverages,25,5,125,Cash,Female,Midnight,Jul,2022,Jul 2022,Sunday,2022Q3
+184,2023-01-03,Cold coffee,Beverages,40,8,320,Cash,Male,Night,Jan,2023,Jan 2023,Tuesday,2023Q1
+185,2023-01-13,Sugarcane juice,Beverages,25,15,375,unknown,Male,Night,Jan,2023,Jan 2023,Friday,2023Q1
+186,2023-03-15,Frankie,Fastfood,50,2,100,Online,Male,Afternoon,Mar,2023,Mar 2023,Wednesday,2023Q1
+187,2022-10-11,Aalopuri,Fastfood,20,15,300,Cash,Female,Morning,Oct,2022,Oct 2022,Tuesday,2022Q4
+188,2022-12-28,Panipuri,Fastfood,20,14,280,Cash,Female,Night,Dec,2022,Dec 2022,Wednesday,2022Q4
+189,2023-02-08,Vadapav,Fastfood,20,12,240,Online,Male,Afternoon,Feb,2023,Feb 2023,Wednesday,2023Q1
+190,2022-04-26,Cold coffee,Beverages,40,1,40,Online,Male,Evening,Apr,2022,Apr 2022,Tuesday,2022Q2
+191,2022-05-20,Sugarcane juice,Beverages,25,14,350,Cash,Female,Morning,May,2022,May 2022,Friday,2022Q2
+192,2022-10-26,Vadapav,Fastfood,20,2,40,Online,Male,Night,Oct,2022,Oct 2022,Wednesday,2022Q4
+193,2023-02-05,Cold coffee,Beverages,40,15,600,Online,Female,Midnight,Feb,2023,Feb 2023,Sunday,2023Q1
+194,2022-12-15,Vadapav,Fastfood,20,4,80,Cash,Female,Morning,Dec,2022,Dec 2022,Thursday,2022Q4
+195,2022-04-23,Sandwich,Fastfood,60,4,240,Cash,Female,Night,Apr,2022,Apr 2022,Saturday,2022Q2
+196,2022-06-25,Sandwich,Fastfood,60,3,180,Cash,Male,Evening,Jun,2022,Jun 2022,Saturday,2022Q2
+197,2022-11-08,Panipuri,Fastfood,20,10,200,Cash,Female,Midnight,Nov,2022,Nov 2022,Tuesday,2022Q4
+198,2023-01-05,Frankie,Fastfood,50,15,750,Cash,Male,Morning,Jan,2023,Jan 2023,Thursday,2023Q1
+199,2023-02-01,Frankie,Fastfood,50,6,300,Online,Female,Morning,Feb,2023,Feb 2023,Wednesday,2023Q1
+200,2022-12-25,Cold coffee,Beverages,40,10,400,Cash,Female,Morning,Dec,2022,Dec 2022,Sunday,2022Q4
+201,2022-06-30,Panipuri,Fastfood,20,8,160,Cash,Male,Morning,Jun,2022,Jun 2022,Thursday,2022Q2
+202,2022-09-21,Aalopuri,Fastfood,20,9,180,Cash,Male,Afternoon,Sep,2022,Sep 2022,Wednesday,2022Q3
+203,2022-04-11,Vadapav,Fastfood,20,6,120,Online,Female,Midnight,Apr,2022,Apr 2022,Monday,2022Q2
+204,2022-10-24,Cold coffee,Beverages,40,7,280,Cash,Female,Evening,Oct,2022,Oct 2022,Monday,2022Q4
+205,2022-10-17,Vadapav,Fastfood,20,4,80,unknown,Male,Afternoon,Oct,2022,Oct 2022,Monday,2022Q4
+206,2022-07-27,Aalopuri,Fastfood,20,4,80,Cash,Male,Night,Jul,2022,Jul 2022,Wednesday,2022Q3
+207,2023-02-20,Cold coffee,Beverages,40,8,320,Online,Female,Evening,Feb,2023,Feb 2023,Monday,2023Q1
+208,2022-08-26,Cold coffee,Beverages,40,13,520,Cash,Female,Midnight,Aug,2022,Aug 2022,Friday,2022Q3
+209,2022-12-04,Aalopuri,Fastfood,20,2,40,Cash,Male,Night,Dec,2022,Dec 2022,Sunday,2022Q4
+210,2023-01-02,Sugarcane juice,Beverages,25,15,375,unknown,Male,Night,Jan,2023,Jan 2023,Monday,2023Q1
+211,2022-04-18,Aalopuri,Fastfood,20,12,240,Cash,Male,Morning,Apr,2022,Apr 2022,Monday,2022Q2
+212,2022-05-05,Cold coffee,Beverages,40,12,480,Online,Female,Morning,May,2022,May 2022,Thursday,2022Q2
+213,2022-09-29,Vadapav,Fastfood,20,3,60,unknown,Female,Midnight,Sep,2022,Sep 2022,Thursday,2022Q3
+214,2022-12-03,Sugarcane juice,Beverages,25,14,350,Online,Male,Evening,Dec,2022,Dec 2022,Saturday,2022Q4
+215,2022-12-10,Sugarcane juice,Beverages,25,7,175,unknown,Female,Morning,Dec,2022,Dec 2022,Saturday,2022Q4
+216,2023-03-07,Panipuri,Fastfood,20,9,180,Cash,Female,Afternoon,Mar,2023,Mar 2023,Tuesday,2023Q1
+217,2023-03-23,Cold coffee,Beverages,40,10,400,Cash,Male,Morning,Mar,2023,Mar 2023,Thursday,2023Q1
+218,2022-12-23,Cold coffee,Beverages,40,13,520,Online,Female,Midnight,Dec,2022,Dec 2022,Friday,2022Q4
+219,2022-10-01,Aalopuri,Fastfood,20,9,180,Cash,Female,Evening,Oct,2022,Oct 2022,Saturday,2022Q4
+220,2022-05-13,Sugarcane juice,Beverages,25,1,25,Cash,Male,Afternoon,May,2022,May 2022,Friday,2022Q2
+221,2023-03-26,Sandwich,Fastfood,60,1,60,Online,Male,Evening,Mar,2023,Mar 2023,Sunday,2023Q1
+222,2022-09-11,Sandwich,Fastfood,60,6,360,Cash,Female,Morning,Sep,2022,Sep 2022,Sunday,2022Q3
+223,2022-09-21,Panipuri,Fastfood,20,13,260,Online,Male,Night,Sep,2022,Sep 2022,Wednesday,2022Q3
+224,2023-03-23,Sugarcane juice,Beverages,25,14,350,Cash,Male,Afternoon,Mar,2023,Mar 2023,Thursday,2023Q1
+225,2023-03-16,Frankie,Fastfood,50,11,550,Cash,Female,Evening,Mar,2023,Mar 2023,Thursday,2023Q1
+226,2022-12-12,Aalopuri,Fastfood,20,13,260,Online,Female,Afternoon,Dec,2022,Dec 2022,Monday,2022Q4
+227,2022-11-17,Cold coffee,Beverages,40,5,200,Cash,Female,Afternoon,Nov,2022,Nov 2022,Thursday,2022Q4
+228,2022-11-05,Panipuri,Fastfood,20,8,160,Online,Male,Night,Nov,2022,Nov 2022,Saturday,2022Q4
+229,2022-12-15,Panipuri,Fastfood,20,7,140,unknown,Male,Evening,Dec,2022,Dec 2022,Thursday,2022Q4
+230,2022-04-16,Frankie,Fastfood,50,6,300,Online,Male,Afternoon,Apr,2022,Apr 2022,Saturday,2022Q2
+231,2022-04-16,Sugarcane juice,Beverages,25,3,75,unknown,Male,Night,Apr,2022,Apr 2022,Saturday,2022Q2
+232,2022-04-23,Vadapav,Fastfood,20,13,260,Cash,Female,Night,Apr,2022,Apr 2022,Saturday,2022Q2
+233,2022-07-31,Panipuri,Fastfood,20,5,100,Cash,Male,Morning,Jul,2022,Jul 2022,Sunday,2022Q3
+234,2022-07-27,Panipuri,Fastfood,20,10,200,Cash,Male,Midnight,Jul,2022,Jul 2022,Wednesday,2022Q3
+235,2022-11-29,Sandwich,Fastfood,60,10,600,Cash,Female,Afternoon,Nov,2022,Nov 2022,Tuesday,2022Q4
+236,2022-06-26,Vadapav,Fastfood,20,12,240,unknown,Female,Evening,Jun,2022,Jun 2022,Sunday,2022Q2
+237,2022-11-08,Panipuri,Fastfood,20,13,260,Cash,Female,Midnight,Nov,2022,Nov 2022,Tuesday,2022Q4
+238,2022-04-26,Vadapav,Fastfood,20,13,260,Cash,Male,Morning,Apr,2022,Apr 2022,Tuesday,2022Q2
+239,2022-12-04,Frankie,Fastfood,50,4,200,Online,Male,Evening,Dec,2022,Dec 2022,Sunday,2022Q4
+240,2022-12-11,Sandwich,Fastfood,60,10,600,Cash,Female,Morning,Dec,2022,Dec 2022,Sunday,2022Q4
+241,2022-06-06,Sugarcane juice,Beverages,25,2,50,Cash,Male,Afternoon,Jun,2022,Jun 2022,Monday,2022Q2
+242,2022-12-23,Cold coffee,Beverages,40,4,160,Online,Female,Midnight,Dec,2022,Dec 2022,Friday,2022Q4
+243,2022-11-12,Panipuri,Fastfood,20,5,100,Cash,Female,Midnight,Nov,2022,Nov 2022,Saturday,2022Q4
+244,2022-11-22,Sandwich,Fastfood,60,10,600,Online,Female,Midnight,Nov,2022,Nov 2022,Tuesday,2022Q4
+245,2022-10-03,Vadapav,Fastfood,20,2,40,Cash,Female,Morning,Oct,2022,Oct 2022,Monday,2022Q4
+246,2022-11-16,Vadapav,Fastfood,20,10,200,Cash,Male,Afternoon,Nov,2022,Nov 2022,Wednesday,2022Q4
+247,2022-10-03,Sugarcane juice,Beverages,25,6,150,unknown,Male,Midnight,Oct,2022,Oct 2022,Monday,2022Q4
+248,2022-04-17,Frankie,Fastfood,50,5,250,Online,Female,Midnight,Apr,2022,Apr 2022,Sunday,2022Q2
+249,2022-10-26,Sugarcane juice,Beverages,25,3,75,Online,Female,Afternoon,Oct,2022,Oct 2022,Wednesday,2022Q4
+250,2022-11-15,Sugarcane juice,Beverages,25,6,150,Online,Female,Midnight,Nov,2022,Nov 2022,Tuesday,2022Q4
+251,2022-12-21,Cold coffee,Beverages,40,13,520,unknown,Female,Afternoon,Dec,2022,Dec 2022,Wednesday,2022Q4
+252,2023-03-26,Vadapav,Fastfood,20,8,160,Online,Male,Midnight,Mar,2023,Mar 2023,Sunday,2023Q1
+253,2022-06-18,Sugarcane juice,Beverages,25,13,325,Online,Male,Afternoon,Jun,2022,Jun 2022,Saturday,2022Q2
+254,2022-10-09,Cold coffee,Beverages,40,12,480,unknown,Female,Afternoon,Oct,2022,Oct 2022,Sunday,2022Q4
+255,2022-04-30,Vadapav,Fastfood,20,7,140,unknown,Female,Afternoon,Apr,2022,Apr 2022,Saturday,2022Q2
+256,2023-03-16,Aalopuri,Fastfood,20,3,60,Online,Female,Midnight,Mar,2023,Mar 2023,Thursday,2023Q1
+257,2023-01-03,Sandwich,Fastfood,60,10,600,Cash,Female,Midnight,Jan,2023,Jan 2023,Tuesday,2023Q1
+258,2022-09-06,Vadapav,Fastfood,20,14,280,Cash,Male,Midnight,Sep,2022,Sep 2022,Tuesday,2022Q3
+259,2022-11-18,Sandwich,Fastfood,60,4,240,Online,Male,Morning,Nov,2022,Nov 2022,Friday,2022Q4
+260,2022-09-10,Sugarcane juice,Beverages,25,2,50,Online,Female,Night,Sep,2022,Sep 2022,Saturday,2022Q3
+261,2023-01-11,Frankie,Fastfood,50,9,450,Cash,Female,Midnight,Jan,2023,Jan 2023,Wednesday,2023Q1
+262,2023-03-05,Vadapav,Fastfood,20,5,100,unknown,Female,Evening,Mar,2023,Mar 2023,Sunday,2023Q1
+263,2022-06-19,Panipuri,Fastfood,20,2,40,Cash,Male,Evening,Jun,2022,Jun 2022,Sunday,2022Q2
+264,2022-07-18,Sugarcane juice,Beverages,25,12,300,Online,Male,Morning,Jul,2022,Jul 2022,Monday,2022Q3
+265,2022-08-15,Vadapav,Fastfood,20,6,120,Cash,Male,Midnight,Aug,2022,Aug 2022,Monday,2022Q3
+266,2022-10-02,Frankie,Fastfood,50,10,500,Online,Female,Night,Oct,2022,Oct 2022,Sunday,2022Q4
+267,2023-03-05,Vadapav,Fastfood,20,1,20,Cash,Male,Morning,Mar,2023,Mar 2023,Sunday,2023Q1
+268,2023-02-05,Cold coffee,Beverages,40,12,480,Cash,Female,Midnight,Feb,2023,Feb 2023,Sunday,2023Q1
+269,2022-12-22,Panipuri,Fastfood,20,2,40,unknown,Female,Midnight,Dec,2022,Dec 2022,Thursday,2022Q4
+270,2022-09-07,Sandwich,Fastfood,60,13,780,Cash,Male,Evening,Sep,2022,Sep 2022,Wednesday,2022Q3
+271,2022-05-03,Vadapav,Fastfood,20,13,260,Cash,Male,Evening,May,2022,May 2022,Tuesday,2022Q2
+272,2022-07-29,Frankie,Fastfood,50,5,250,Online,Female,Night,Jul,2022,Jul 2022,Friday,2022Q3
+273,2022-08-15,Panipuri,Fastfood,20,15,300,Cash,Male,Midnight,Aug,2022,Aug 2022,Monday,2022Q3
+274,2023-01-04,Sugarcane juice,Beverages,25,10,250,Online,Male,Night,Jan,2023,Jan 2023,Wednesday,2023Q1
+275,2023-02-04,Vadapav,Fastfood,20,15,300,Online,Male,Night,Feb,2023,Feb 2023,Saturday,2023Q1
+276,2022-09-30,Sugarcane juice,Beverages,25,6,150,Cash,Male,Midnight,Sep,2022,Sep 2022,Friday,2022Q3
+277,2022-12-08,Cold coffee,Beverages,40,13,520,Cash,Female,Midnight,Dec,2022,Dec 2022,Thursday,2022Q4
+278,2022-06-19,Frankie,Fastfood,50,6,300,Online,Female,Night,Jun,2022,Jun 2022,Sunday,2022Q2
+279,2022-09-14,Vadapav,Fastfood,20,15,300,Cash,Female,Afternoon,Sep,2022,Sep 2022,Wednesday,2022Q3
+280,2022-10-09,Panipuri,Fastfood,20,14,280,Online,Female,Evening,Oct,2022,Oct 2022,Sunday,2022Q4
+281,2022-08-09,Sandwich,Fastfood,60,3,180,Cash,Female,Afternoon,Aug,2022,Aug 2022,Tuesday,2022Q3
+282,2022-05-16,Vadapav,Fastfood,20,13,260,unknown,Female,Morning,May,2022,May 2022,Monday,2022Q2
+283,2022-07-02,Panipuri,Fastfood,20,2,40,Cash,Female,Midnight,Jul,2022,Jul 2022,Saturday,2022Q3
+284,2023-01-29,Frankie,Fastfood,50,7,350,unknown,Male,Afternoon,Jan,2023,Jan 2023,Sunday,2023Q1
+285,2022-06-28,Aalopuri,Fastfood,20,3,60,unknown,Male,Night,Jun,2022,Jun 2022,Tuesday,2022Q2
+286,2022-12-14,Vadapav,Fastfood,20,6,120,unknown,Male,Night,Dec,2022,Dec 2022,Wednesday,2022Q4
+287,2022-08-06,Aalopuri,Fastfood,20,3,60,Cash,Male,Morning,Aug,2022,Aug 2022,Saturday,2022Q3
+288,2022-08-22,Sandwich,Fastfood,60,7,420,Cash,Male,Night,Aug,2022,Aug 2022,Monday,2022Q3
+289,2022-11-28,Aalopuri,Fastfood,20,7,140,Online,Female,Midnight,Nov,2022,Nov 2022,Monday,2022Q4
+290,2022-05-03,Panipuri,Fastfood,20,7,140,Cash,Female,Morning,May,2022,May 2022,Tuesday,2022Q2
+291,2023-01-27,Frankie,Fastfood,50,8,400,Online,Female,Night,Jan,2023,Jan 2023,Friday,2023Q1
+292,2023-01-16,Frankie,Fastfood,50,2,100,Cash,Female,Midnight,Jan,2023,Jan 2023,Monday,2023Q1
+293,2022-04-21,Panipuri,Fastfood,20,8,160,Online,Female,Morning,Apr,2022,Apr 2022,Thursday,2022Q2
+294,2022-09-23,Aalopuri,Fastfood,20,1,20,Cash,Female,Evening,Sep,2022,Sep 2022,Friday,2022Q3
+295,2022-07-21,Sandwich,Fastfood,60,7,420,Cash,Male,Midnight,Jul,2022,Jul 2022,Thursday,2022Q3
+296,2023-02-06,Panipuri,Fastfood,20,7,140,Cash,Female,Afternoon,Feb,2023,Feb 2023,Monday,2023Q1
+297,2022-04-30,Sandwich,Fastfood,60,10,600,Online,Male,Evening,Apr,2022,Apr 2022,Saturday,2022Q2
+298,2022-07-19,Sugarcane juice,Beverages,25,9,225,Cash,Female,Afternoon,Jul,2022,Jul 2022,Tuesday,2022Q3
+299,2022-07-22,Aalopuri,Fastfood,20,1,20,Online,Female,Evening,Jul,2022,Jul 2022,Friday,2022Q3
+300,2022-06-27,Aalopuri,Fastfood,20,8,160,Cash,Male,Afternoon,Jun,2022,Jun 2022,Monday,2022Q2
+301,2023-01-28,Panipuri,Fastfood,20,7,140,Cash,Male,Night,Jan,2023,Jan 2023,Saturday,2023Q1
+302,2023-03-21,Aalopuri,Fastfood,20,14,280,Cash,Male,Night,Mar,2023,Mar 2023,Tuesday,2023Q1
+303,2022-07-02,Sugarcane juice,Beverages,25,1,25,Cash,Female,Midnight,Jul,2022,Jul 2022,Saturday,2022Q3
+304,2022-05-28,Vadapav,Fastfood,20,15,300,Online,Male,Morning,May,2022,May 2022,Saturday,2022Q2
+305,2023-03-05,Panipuri,Fastfood,20,4,80,unknown,Female,Morning,Mar,2023,Mar 2023,Sunday,2023Q1
+306,2023-03-03,Cold coffee,Beverages,40,8,320,Online,Female,Morning,Mar,2023,Mar 2023,Friday,2023Q1
+307,2023-02-13,Vadapav,Fastfood,20,8,160,Cash,Male,Evening,Feb,2023,Feb 2023,Monday,2023Q1
+308,2022-12-17,Sandwich,Fastfood,60,13,780,Online,Male,Evening,Dec,2022,Dec 2022,Saturday,2022Q4
+309,2022-10-14,Sandwich,Fastfood,60,8,480,Online,Male,Evening,Oct,2022,Oct 2022,Friday,2022Q4
+310,2022-04-25,Vadapav,Fastfood,20,4,80,Cash,Male,Afternoon,Apr,2022,Apr 2022,Monday,2022Q2
+311,2022-07-31,Frankie,Fastfood,50,7,350,unknown,Female,Morning,Jul,2022,Jul 2022,Sunday,2022Q3
+312,2022-12-28,Cold coffee,Beverages,40,1,40,Cash,Female,Night,Dec,2022,Dec 2022,Wednesday,2022Q4
+313,2022-04-19,Cold coffee,Beverages,40,1,40,Cash,Male,Midnight,Apr,2022,Apr 2022,Tuesday,2022Q2
+314,2023-02-27,Frankie,Fastfood,50,8,400,Online,Female,Morning,Feb,2023,Feb 2023,Monday,2023Q1
+315,2023-02-20,Cold coffee,Beverages,40,13,520,Online,Female,Afternoon,Feb,2023,Feb 2023,Monday,2023Q1
+316,2022-11-02,Frankie,Fastfood,50,4,200,Online,Male,Morning,Nov,2022,Nov 2022,Wednesday,2022Q4
+317,2023-03-10,Aalopuri,Fastfood,20,12,240,Online,Female,Afternoon,Mar,2023,Mar 2023,Friday,2023Q1
+318,2022-12-21,Aalopuri,Fastfood,20,10,200,Online,Female,Midnight,Dec,2022,Dec 2022,Wednesday,2022Q4
+319,2022-06-30,Frankie,Fastfood,50,15,750,Cash,Male,Afternoon,Jun,2022,Jun 2022,Thursday,2022Q2
+320,2023-03-18,Sugarcane juice,Beverages,25,7,175,Cash,Female,Afternoon,Mar,2023,Mar 2023,Saturday,2023Q1
+321,2023-02-08,Frankie,Fastfood,50,12,600,Cash,Female,Evening,Feb,2023,Feb 2023,Wednesday,2023Q1
+322,2022-05-05,Cold coffee,Beverages,40,11,440,Cash,Male,Morning,May,2022,May 2022,Thursday,2022Q2
+323,2022-12-29,Aalopuri,Fastfood,20,4,80,Cash,Male,Morning,Dec,2022,Dec 2022,Thursday,2022Q4
+324,2022-07-18,Sugarcane juice,Beverages,25,15,375,Online,Female,Night,Jul,2022,Jul 2022,Monday,2022Q3
+325,2023-03-02,Aalopuri,Fastfood,20,12,240,unknown,Female,Afternoon,Mar,2023,Mar 2023,Thursday,2023Q1
+326,2022-05-03,Sandwich,Fastfood,60,8,480,Cash,Male,Evening,May,2022,May 2022,Tuesday,2022Q2
+327,2022-11-29,Frankie,Fastfood,50,15,750,Cash,Female,Midnight,Nov,2022,Nov 2022,Tuesday,2022Q4
+328,2022-06-16,Vadapav,Fastfood,20,3,60,Online,Male,Evening,Jun,2022,Jun 2022,Thursday,2022Q2
+329,2023-01-10,Panipuri,Fastfood,20,7,140,Online,Female,Afternoon,Jan,2023,Jan 2023,Tuesday,2023Q1
+330,2022-09-22,Panipuri,Fastfood,20,8,160,unknown,Male,Morning,Sep,2022,Sep 2022,Thursday,2022Q3
+331,2022-08-21,Panipuri,Fastfood,20,4,80,Online,Female,Evening,Aug,2022,Aug 2022,Sunday,2022Q3
+332,2023-02-17,Aalopuri,Fastfood,20,2,40,unknown,Female,Afternoon,Feb,2023,Feb 2023,Friday,2023Q1
+333,2022-10-30,Sugarcane juice,Beverages,25,11,275,Cash,Female,Afternoon,Oct,2022,Oct 2022,Sunday,2022Q4
+334,2022-04-04,Cold coffee,Beverages,40,4,160,Cash,Female,Evening,Apr,2022,Apr 2022,Monday,2022Q2
+335,2022-10-24,Cold coffee,Beverages,40,11,440,Cash,Male,Night,Oct,2022,Oct 2022,Monday,2022Q4
+336,2022-09-03,Sugarcane juice,Beverages,25,13,325,unknown,Female,Midnight,Sep,2022,Sep 2022,Saturday,2022Q3
+337,2022-10-15,Aalopuri,Fastfood,20,14,280,Online,Female,Midnight,Oct,2022,Oct 2022,Saturday,2022Q4
+338,2022-05-06,Sugarcane juice,Beverages,25,12,300,Cash,Male,Morning,May,2022,May 2022,Friday,2022Q2
+339,2023-02-16,Sugarcane juice,Beverages,25,1,25,unknown,Female,Midnight,Feb,2023,Feb 2023,Thursday,2023Q1
+340,2022-06-02,Cold coffee,Beverages,40,4,160,Cash,Female,Evening,Jun,2022,Jun 2022,Thursday,2022Q2
+341,2023-03-19,Frankie,Fastfood,50,9,450,Cash,Female,Evening,Mar,2023,Mar 2023,Sunday,2023Q1
+342,2023-03-11,Vadapav,Fastfood,20,7,140,Online,Male,Afternoon,Mar,2023,Mar 2023,Saturday,2023Q1
+343,2023-01-18,Sugarcane juice,Beverages,25,5,125,Cash,Male,Afternoon,Jan,2023,Jan 2023,Wednesday,2023Q1
+344,2022-05-13,Cold coffee,Beverages,40,14,560,Cash,Male,Night,May,2022,May 2022,Friday,2022Q2
+345,2022-05-09,Panipuri,Fastfood,20,14,280,Online,Female,Night,May,2022,May 2022,Monday,2022Q2
+346,2023-01-31,Cold coffee,Beverages,40,12,480,Cash,Male,Morning,Jan,2023,Jan 2023,Tuesday,2023Q1
+347,2022-06-24,Frankie,Fastfood,50,7,350,Cash,Female,Afternoon,Jun,2022,Jun 2022,Friday,2022Q2
+348,2022-09-19,Vadapav,Fastfood,20,1,20,Online,Female,Midnight,Sep,2022,Sep 2022,Monday,2022Q3
+349,2022-08-17,Panipuri,Fastfood,20,5,100,Cash,Female,Evening,Aug,2022,Aug 2022,Wednesday,2022Q3
+350,2022-09-21,Cold coffee,Beverages,40,8,320,Online,Female,Morning,Sep,2022,Sep 2022,Wednesday,2022Q3
+351,2022-07-08,Frankie,Fastfood,50,5,250,Online,Female,Night,Jul,2022,Jul 2022,Friday,2022Q3
+352,2022-05-25,Frankie,Fastfood,50,11,550,Cash,Female,Night,May,2022,May 2022,Wednesday,2022Q2
+353,2022-05-18,Vadapav,Fastfood,20,4,80,Online,Female,Midnight,May,2022,May 2022,Wednesday,2022Q2
+354,2023-01-16,Panipuri,Fastfood,20,14,280,Online,Male,Midnight,Jan,2023,Jan 2023,Monday,2023Q1
+355,2023-03-15,Cold coffee,Beverages,40,4,160,Online,Male,Midnight,Mar,2023,Mar 2023,Wednesday,2023Q1
+356,2022-05-26,Sugarcane juice,Beverages,25,14,350,Cash,Female,Night,May,2022,May 2022,Thursday,2022Q2
+357,2022-09-21,Sandwich,Fastfood,60,9,540,Online,Female,Afternoon,Sep,2022,Sep 2022,Wednesday,2022Q3
+358,2022-10-27,Aalopuri,Fastfood,20,6,120,Cash,Male,Night,Oct,2022,Oct 2022,Thursday,2022Q4
+359,2022-08-27,Aalopuri,Fastfood,20,13,260,Online,Female,Night,Aug,2022,Aug 2022,Saturday,2022Q3
+360,2022-10-06,Cold coffee,Beverages,40,2,80,Online,Female,Midnight,Oct,2022,Oct 2022,Thursday,2022Q4
+361,2022-06-30,Sandwich,Fastfood,60,15,900,unknown,Female,Night,Jun,2022,Jun 2022,Thursday,2022Q2
+362,2022-12-30,Sugarcane juice,Beverages,25,2,50,Cash,Male,Morning,Dec,2022,Dec 2022,Friday,2022Q4
+363,2022-05-09,Frankie,Fastfood,50,9,450,Online,Male,Afternoon,May,2022,May 2022,Monday,2022Q2
+364,2022-10-11,Cold coffee,Beverages,40,2,80,Online,Male,Night,Oct,2022,Oct 2022,Tuesday,2022Q4
+365,2022-07-08,Panipuri,Fastfood,20,10,200,Online,Male,Night,Jul,2022,Jul 2022,Friday,2022Q3
+366,2022-11-30,Sugarcane juice,Beverages,25,10,250,Online,Female,Afternoon,Nov,2022,Nov 2022,Wednesday,2022Q4
+367,2022-08-10,Panipuri,Fastfood,20,6,120,unknown,Male,Afternoon,Aug,2022,Aug 2022,Wednesday,2022Q3
+368,2022-08-31,Cold coffee,Beverages,40,2,80,Cash,Male,Night,Aug,2022,Aug 2022,Wednesday,2022Q3
+369,2022-07-03,Sandwich,Fastfood,60,2,120,Online,Female,Evening,Jul,2022,Jul 2022,Sunday,2022Q3
+370,2022-05-28,Panipuri,Fastfood,20,5,100,unknown,Female,Midnight,May,2022,May 2022,Saturday,2022Q2
+371,2022-10-18,Vadapav,Fastfood,20,5,100,Online,Female,Night,Oct,2022,Oct 2022,Tuesday,2022Q4
+372,2022-11-19,Frankie,Fastfood,50,12,600,unknown,Male,Morning,Nov,2022,Nov 2022,Saturday,2022Q4
+373,2022-05-08,Sugarcane juice,Beverages,25,12,300,Cash,Female,Midnight,May,2022,May 2022,Sunday,2022Q2
+374,2022-07-24,Frankie,Fastfood,50,10,500,Online,Male,Midnight,Jul,2022,Jul 2022,Sunday,2022Q3
+375,2022-11-17,Panipuri,Fastfood,20,13,260,Cash,Male,Evening,Nov,2022,Nov 2022,Thursday,2022Q4
+376,2022-12-04,Frankie,Fastfood,50,15,750,Cash,Male,Midnight,Dec,2022,Dec 2022,Sunday,2022Q4
+377,2022-05-20,Sugarcane juice,Beverages,25,3,75,Online,Female,Evening,May,2022,May 2022,Friday,2022Q2
+378,2022-04-24,Vadapav,Fastfood,20,2,40,Cash,Female,Midnight,Apr,2022,Apr 2022,Sunday,2022Q2
+379,2023-02-15,Cold coffee,Beverages,40,14,560,unknown,Male,Afternoon,Feb,2023,Feb 2023,Wednesday,2023Q1
+380,2022-10-20,Sandwich,Fastfood,60,5,300,Online,Female,Afternoon,Oct,2022,Oct 2022,Thursday,2022Q4
+381,2023-02-26,Vadapav,Fastfood,20,1,20,Online,Male,Morning,Feb,2023,Feb 2023,Sunday,2023Q1
+382,2022-08-16,Cold coffee,Beverages,40,9,360,Cash,Female,Night,Aug,2022,Aug 2022,Tuesday,2022Q3
+383,2022-05-06,Aalopuri,Fastfood,20,7,140,Online,Female,Morning,May,2022,May 2022,Friday,2022Q2
+384,2022-10-22,Sugarcane juice,Beverages,25,1,25,Online,Male,Afternoon,Oct,2022,Oct 2022,Saturday,2022Q4
+385,2022-04-25,Vadapav,Fastfood,20,5,100,Cash,Male,Morning,Apr,2022,Apr 2022,Monday,2022Q2
+386,2022-11-23,Frankie,Fastfood,50,5,250,Online,Male,Midnight,Nov,2022,Nov 2022,Wednesday,2022Q4
+387,2023-03-17,Sugarcane juice,Beverages,25,14,350,Cash,Female,Midnight,Mar,2023,Mar 2023,Friday,2023Q1
+388,2022-10-09,Sandwich,Fastfood,60,14,840,Cash,Male,Evening,Oct,2022,Oct 2022,Sunday,2022Q4
+389,2022-12-22,Sandwich,Fastfood,60,12,720,Cash,Female,Evening,Dec,2022,Dec 2022,Thursday,2022Q4
+390,2022-06-18,Sugarcane juice,Beverages,25,5,125,unknown,Male,Midnight,Jun,2022,Jun 2022,Saturday,2022Q2
+391,2022-04-21,Aalopuri,Fastfood,20,1,20,Online,Female,Night,Apr,2022,Apr 2022,Thursday,2022Q2
+392,2022-09-18,Aalopuri,Fastfood,20,15,300,Online,Male,Night,Sep,2022,Sep 2022,Sunday,2022Q3
+393,2022-07-02,Sugarcane juice,Beverages,25,10,250,Online,Female,Evening,Jul,2022,Jul 2022,Saturday,2022Q3
+394,2022-04-03,Sandwich,Fastfood,60,1,60,Cash,Female,Morning,Apr,2022,Apr 2022,Sunday,2022Q2
+395,2023-01-31,Sandwich,Fastfood,60,3,180,Cash,Female,Evening,Jan,2023,Jan 2023,Tuesday,2023Q1
+396,2022-10-31,Frankie,Fastfood,50,15,750,Online,Male,Morning,Oct,2022,Oct 2022,Monday,2022Q4
+397,2022-07-06,Aalopuri,Fastfood,20,2,40,Online,Female,Afternoon,Jul,2022,Jul 2022,Wednesday,2022Q3
+398,2023-01-13,Panipuri,Fastfood,20,6,120,Online,Male,Evening,Jan,2023,Jan 2023,Friday,2023Q1
+399,2022-06-24,Panipuri,Fastfood,20,9,180,Cash,Female,Evening,Jun,2022,Jun 2022,Friday,2022Q2
+400,2023-03-04,Cold coffee,Beverages,40,15,600,Cash,Female,Morning,Mar,2023,Mar 2023,Saturday,2023Q1
+401,2022-10-11,Sugarcane juice,Beverages,25,8,200,Online,Female,Midnight,Oct,2022,Oct 2022,Tuesday,2022Q4
+402,2023-03-19,Frankie,Fastfood,50,7,350,Cash,Male,Night,Mar,2023,Mar 2023,Sunday,2023Q1
+403,2022-09-25,Cold coffee,Beverages,40,3,120,Online,Female,Midnight,Sep,2022,Sep 2022,Sunday,2022Q3
+404,2022-11-26,Frankie,Fastfood,50,7,350,Cash,Female,Midnight,Nov,2022,Nov 2022,Saturday,2022Q4
+405,2022-12-13,Sugarcane juice,Beverages,25,10,250,Cash,Male,Night,Dec,2022,Dec 2022,Tuesday,2022Q4
+406,2022-10-13,Cold coffee,Beverages,40,4,160,Online,Female,Afternoon,Oct,2022,Oct 2022,Thursday,2022Q4
+407,2023-01-02,Sugarcane juice,Beverages,25,2,50,Cash,Male,Evening,Jan,2023,Jan 2023,Monday,2023Q1
+408,2022-10-05,Vadapav,Fastfood,20,4,80,Online,Male,Midnight,Oct,2022,Oct 2022,Wednesday,2022Q4
+409,2022-09-15,Aalopuri,Fastfood,20,9,180,Cash,Female,Morning,Sep,2022,Sep 2022,Thursday,2022Q3
+410,2022-11-23,Aalopuri,Fastfood,20,15,300,Online,Male,Afternoon,Nov,2022,Nov 2022,Wednesday,2022Q4
+411,2022-11-20,Panipuri,Fastfood,20,12,240,Cash,Male,Afternoon,Nov,2022,Nov 2022,Sunday,2022Q4
+412,2023-03-09,Sugarcane juice,Beverages,25,14,350,unknown,Male,Afternoon,Mar,2023,Mar 2023,Thursday,2023Q1
+413,2022-04-03,Aalopuri,Fastfood,20,10,200,Online,Female,Midnight,Apr,2022,Apr 2022,Sunday,2022Q2
+414,2023-01-21,Cold coffee,Beverages,40,13,520,unknown,Male,Night,Jan,2023,Jan 2023,Saturday,2023Q1
+415,2022-12-05,Vadapav,Fastfood,20,8,160,Online,Male,Evening,Dec,2022,Dec 2022,Monday,2022Q4
+416,2022-08-05,Sandwich,Fastfood,60,9,540,unknown,Male,Morning,Aug,2022,Aug 2022,Friday,2022Q3
+417,2023-01-16,Panipuri,Fastfood,20,3,60,Cash,Male,Evening,Jan,2023,Jan 2023,Monday,2023Q1
+418,2022-11-12,Cold coffee,Beverages,40,7,280,Online,Male,Night,Nov,2022,Nov 2022,Saturday,2022Q4
+419,2022-10-08,Sugarcane juice,Beverages,25,14,350,unknown,Female,Midnight,Oct,2022,Oct 2022,Saturday,2022Q4
+420,2023-01-30,Frankie,Fastfood,50,13,650,Online,Female,Evening,Jan,2023,Jan 2023,Monday,2023Q1
+421,2023-03-24,Cold coffee,Beverages,40,2,80,Online,Male,Midnight,Mar,2023,Mar 2023,Friday,2023Q1
+422,2022-08-02,Cold coffee,Beverages,40,7,280,Online,Male,Evening,Aug,2022,Aug 2022,Tuesday,2022Q3
+423,2022-10-21,Frankie,Fastfood,50,7,350,Cash,Female,Night,Oct,2022,Oct 2022,Friday,2022Q4
+424,2022-04-21,Sugarcane juice,Beverages,25,9,225,Online,Female,Midnight,Apr,2022,Apr 2022,Thursday,2022Q2
+425,2022-08-17,Panipuri,Fastfood,20,14,280,Online,Male,Afternoon,Aug,2022,Aug 2022,Wednesday,2022Q3
+426,2023-01-20,Frankie,Fastfood,50,14,700,Cash,Male,Midnight,Jan,2023,Jan 2023,Friday,2023Q1
+427,2022-05-21,Sandwich,Fastfood,60,2,120,Online,Male,Afternoon,May,2022,May 2022,Saturday,2022Q2
+428,2022-12-24,Sugarcane juice,Beverages,25,8,200,Online,Male,Afternoon,Dec,2022,Dec 2022,Saturday,2022Q4
+429,2022-09-19,Cold coffee,Beverages,40,3,120,Online,Male,Night,Sep,2022,Sep 2022,Monday,2022Q3
+430,2022-11-05,Sandwich,Fastfood,60,4,240,Online,Male,Night,Nov,2022,Nov 2022,Saturday,2022Q4
+431,2023-03-16,Panipuri,Fastfood,20,6,120,Online,Male,Evening,Mar,2023,Mar 2023,Thursday,2023Q1
+432,2023-03-27,Panipuri,Fastfood,20,6,120,Online,Male,Afternoon,Mar,2023,Mar 2023,Monday,2023Q1
+433,2022-05-27,Panipuri,Fastfood,20,14,280,Online,Female,Evening,May,2022,May 2022,Friday,2022Q2
+434,2022-08-21,Aalopuri,Fastfood,20,12,240,Cash,Male,Morning,Aug,2022,Aug 2022,Sunday,2022Q3
+435,2022-05-08,Sandwich,Fastfood,60,1,60,Cash,Female,Afternoon,May,2022,May 2022,Sunday,2022Q2
+436,2023-01-05,Frankie,Fastfood,50,10,500,Cash,Male,Midnight,Jan,2023,Jan 2023,Thursday,2023Q1
+437,2022-08-31,Cold coffee,Beverages,40,1,40,unknown,Male,Morning,Aug,2022,Aug 2022,Wednesday,2022Q3
+438,2022-06-20,Cold coffee,Beverages,40,5,200,Online,Male,Morning,Jun,2022,Jun 2022,Monday,2022Q2
+439,2022-09-30,Frankie,Fastfood,50,13,650,Online,Male,Afternoon,Sep,2022,Sep 2022,Friday,2022Q3
+440,2022-11-28,Aalopuri,Fastfood,20,7,140,Cash,Male,Afternoon,Nov,2022,Nov 2022,Monday,2022Q4
+441,2022-11-02,Aalopuri,Fastfood,20,1,20,Online,Female,Midnight,Nov,2022,Nov 2022,Wednesday,2022Q4
+442,2022-08-22,Sugarcane juice,Beverages,25,7,175,Online,Female,Night,Aug,2022,Aug 2022,Monday,2022Q3
+443,2022-09-05,Sugarcane juice,Beverages,25,12,300,Cash,Female,Night,Sep,2022,Sep 2022,Monday,2022Q3
+444,2022-09-28,Frankie,Fastfood,50,4,200,unknown,Male,Evening,Sep,2022,Sep 2022,Wednesday,2022Q3
+445,2022-10-22,Sandwich,Fastfood,60,14,840,Online,Female,Morning,Oct,2022,Oct 2022,Saturday,2022Q4
+446,2022-08-31,Cold coffee,Beverages,40,9,360,Cash,Male,Night,Aug,2022,Aug 2022,Wednesday,2022Q3
+447,2023-01-17,Frankie,Fastfood,50,6,300,Online,Female,Afternoon,Jan,2023,Jan 2023,Tuesday,2023Q1
+448,2022-07-27,Vadapav,Fastfood,20,6,120,Cash,Female,Evening,Jul,2022,Jul 2022,Wednesday,2022Q3
+449,2022-09-09,Frankie,Fastfood,50,4,200,Cash,Male,Afternoon,Sep,2022,Sep 2022,Friday,2022Q3
+450,2022-05-20,Sugarcane juice,Beverages,25,1,25,Online,Male,Morning,May,2022,May 2022,Friday,2022Q2
+451,2023-03-15,Sugarcane juice,Beverages,25,10,250,Cash,Female,Midnight,Mar,2023,Mar 2023,Wednesday,2023Q1
+452,2022-12-25,Frankie,Fastfood,50,5,250,Online,Male,Afternoon,Dec,2022,Dec 2022,Sunday,2022Q4
+453,2022-10-20,Sandwich,Fastfood,60,1,60,Online,Female,Midnight,Oct,2022,Oct 2022,Thursday,2022Q4
+454,2023-03-07,Sandwich,Fastfood,60,1,60,Online,Female,Evening,Mar,2023,Mar 2023,Tuesday,2023Q1
+455,2023-03-01,Cold coffee,Beverages,40,11,440,Cash,Male,Midnight,Mar,2023,Mar 2023,Wednesday,2023Q1
+456,2022-12-31,Cold coffee,Beverages,40,13,520,unknown,Female,Night,Dec,2022,Dec 2022,Saturday,2022Q4
+457,2022-10-16,Cold coffee,Beverages,40,11,440,Cash,Male,Evening,Oct,2022,Oct 2022,Sunday,2022Q4
+458,2022-09-12,Sugarcane juice,Beverages,25,8,200,Cash,Female,Midnight,Sep,2022,Sep 2022,Monday,2022Q3
+459,2022-06-08,Vadapav,Fastfood,20,14,280,Cash,Male,Night,Jun,2022,Jun 2022,Wednesday,2022Q2
+460,2022-11-20,Aalopuri,Fastfood,20,2,40,Cash,Male,Morning,Nov,2022,Nov 2022,Sunday,2022Q4
+461,2022-07-22,Sugarcane juice,Beverages,25,5,125,Cash,Male,Midnight,Jul,2022,Jul 2022,Friday,2022Q3
+462,2022-04-24,Vadapav,Fastfood,20,3,60,Cash,Male,Morning,Apr,2022,Apr 2022,Sunday,2022Q2
+463,2022-06-11,Sandwich,Fastfood,60,6,360,Online,Male,Midnight,Jun,2022,Jun 2022,Saturday,2022Q2
+464,2022-10-18,Sugarcane juice,Beverages,25,13,325,Cash,Male,Morning,Oct,2022,Oct 2022,Tuesday,2022Q4
+465,2023-01-15,Sugarcane juice,Beverages,25,12,300,Online,Male,Evening,Jan,2023,Jan 2023,Sunday,2023Q1
+466,2023-01-11,Panipuri,Fastfood,20,6,120,Cash,Male,Evening,Jan,2023,Jan 2023,Wednesday,2023Q1
+467,2022-10-17,Aalopuri,Fastfood,20,11,220,Online,Male,Morning,Oct,2022,Oct 2022,Monday,2022Q4
+468,2022-09-08,Panipuri,Fastfood,20,2,40,Cash,Male,Evening,Sep,2022,Sep 2022,Thursday,2022Q3
+469,2022-05-15,Sandwich,Fastfood,60,7,420,Online,Female,Morning,May,2022,May 2022,Sunday,2022Q2
+470,2022-09-29,Vadapav,Fastfood,20,8,160,Cash,Female,Morning,Sep,2022,Sep 2022,Thursday,2022Q3
+471,2023-02-13,Panipuri,Fastfood,20,7,140,Cash,Female,Afternoon,Feb,2023,Feb 2023,Monday,2023Q1
+472,2023-01-11,Panipuri,Fastfood,20,10,200,unknown,Male,Midnight,Jan,2023,Jan 2023,Wednesday,2023Q1
+473,2022-09-04,Sandwich,Fastfood,60,5,300,Cash,Female,Evening,Sep,2022,Sep 2022,Sunday,2022Q3
+474,2022-08-28,Sugarcane juice,Beverages,25,15,375,Cash,Female,Night,Aug,2022,Aug 2022,Sunday,2022Q3
+475,2023-02-24,Cold coffee,Beverages,40,6,240,Cash,Female,Night,Feb,2023,Feb 2023,Friday,2023Q1
+476,2023-02-02,Aalopuri,Fastfood,20,10,200,Cash,Male,Morning,Feb,2023,Feb 2023,Thursday,2023Q1
+477,2023-02-13,Sandwich,Fastfood,60,15,900,Cash,Female,Midnight,Feb,2023,Feb 2023,Monday,2023Q1
+478,2022-12-27,Sugarcane juice,Beverages,25,9,225,Cash,Female,Afternoon,Dec,2022,Dec 2022,Tuesday,2022Q4
+479,2023-02-13,Sandwich,Fastfood,60,11,660,Cash,Female,Afternoon,Feb,2023,Feb 2023,Monday,2023Q1
+480,2022-10-02,Vadapav,Fastfood,20,12,240,Cash,Male,Evening,Oct,2022,Oct 2022,Sunday,2022Q4
+481,2022-10-29,Sugarcane juice,Beverages,25,4,100,Cash,Male,Evening,Oct,2022,Oct 2022,Saturday,2022Q4
+482,2023-01-31,Aalopuri,Fastfood,20,1,20,Online,Male,Afternoon,Jan,2023,Jan 2023,Tuesday,2023Q1
+483,2022-04-27,Panipuri,Fastfood,20,9,180,Cash,Female,Morning,Apr,2022,Apr 2022,Wednesday,2022Q2
+484,2023-03-21,Cold coffee,Beverages,40,5,200,Cash,Female,Afternoon,Mar,2023,Mar 2023,Tuesday,2023Q1
+485,2023-02-26,Aalopuri,Fastfood,20,6,120,Cash,Female,Midnight,Feb,2023,Feb 2023,Sunday,2023Q1
+486,2023-02-14,Vadapav,Fastfood,20,6,120,Cash,Female,Midnight,Feb,2023,Feb 2023,Tuesday,2023Q1
+487,2022-05-27,Sandwich,Fastfood,60,9,540,Cash,Female,Midnight,May,2022,May 2022,Friday,2022Q2
+488,2022-09-21,Cold coffee,Beverages,40,10,400,Cash,Male,Midnight,Sep,2022,Sep 2022,Wednesday,2022Q3
+489,2023-02-03,Frankie,Fastfood,50,13,650,Online,Female,Evening,Feb,2023,Feb 2023,Friday,2023Q1
+490,2022-12-26,Cold coffee,Beverages,40,8,320,Cash,Male,Morning,Dec,2022,Dec 2022,Monday,2022Q4
+491,2022-05-31,Vadapav,Fastfood,20,2,40,Online,Female,Midnight,May,2022,May 2022,Tuesday,2022Q2
+492,2022-07-11,Sandwich,Fastfood,60,15,900,Cash,Male,Afternoon,Jul,2022,Jul 2022,Monday,2022Q3
+493,2022-10-02,Cold coffee,Beverages,40,2,80,Online,Male,Morning,Oct,2022,Oct 2022,Sunday,2022Q4
+494,2023-01-14,Cold coffee,Beverages,40,10,400,Cash,Female,Night,Jan,2023,Jan 2023,Saturday,2023Q1
+495,2022-10-20,Aalopuri,Fastfood,20,13,260,Online,Female,Midnight,Oct,2022,Oct 2022,Thursday,2022Q4
+496,2022-11-07,Cold coffee,Beverages,40,10,400,Online,Female,Night,Nov,2022,Nov 2022,Monday,2022Q4
+497,2023-01-25,Sandwich,Fastfood,60,7,420,Cash,Male,Midnight,Jan,2023,Jan 2023,Wednesday,2023Q1
+498,2022-06-16,Frankie,Fastfood,50,1,50,Cash,Male,Midnight,Jun,2022,Jun 2022,Thursday,2022Q2
+499,2022-07-27,Sandwich,Fastfood,60,8,480,Online,Female,Evening,Jul,2022,Jul 2022,Wednesday,2022Q3
+500,2022-04-08,Vadapav,Fastfood,20,4,80,Online,Female,Midnight,Apr,2022,Apr 2022,Friday,2022Q2
+501,2022-08-09,Sugarcane juice,Beverages,25,14,350,Online,Female,Afternoon,Aug,2022,Aug 2022,Tuesday,2022Q3
+502,2023-01-04,Panipuri,Fastfood,20,13,260,Online,Male,Night,Jan,2023,Jan 2023,Wednesday,2023Q1
+503,2022-11-04,Aalopuri,Fastfood,20,13,260,Cash,Female,Morning,Nov,2022,Nov 2022,Friday,2022Q4
+504,2022-12-09,Cold coffee,Beverages,40,8,320,Cash,Male,Evening,Dec,2022,Dec 2022,Friday,2022Q4
+505,2023-02-12,Frankie,Fastfood,50,4,200,Cash,Male,Night,Feb,2023,Feb 2023,Sunday,2023Q1
+506,2022-12-26,Cold coffee,Beverages,40,12,480,Cash,Female,Midnight,Dec,2022,Dec 2022,Monday,2022Q4
+507,2022-12-14,Aalopuri,Fastfood,20,14,280,Online,Female,Morning,Dec,2022,Dec 2022,Wednesday,2022Q4
+508,2022-12-10,Sandwich,Fastfood,60,1,60,Cash,Male,Night,Dec,2022,Dec 2022,Saturday,2022Q4
+509,2022-10-26,Vadapav,Fastfood,20,11,220,Online,Male,Evening,Oct,2022,Oct 2022,Wednesday,2022Q4
+510,2022-04-04,Sandwich,Fastfood,60,14,840,Online,Male,Afternoon,Apr,2022,Apr 2022,Monday,2022Q2
+511,2022-08-02,Panipuri,Fastfood,20,4,80,Cash,Female,Night,Aug,2022,Aug 2022,Tuesday,2022Q3
+512,2023-01-11,Panipuri,Fastfood,20,3,60,Cash,Female,Afternoon,Jan,2023,Jan 2023,Wednesday,2023Q1
+513,2022-07-16,Cold coffee,Beverages,40,5,200,Cash,Female,Night,Jul,2022,Jul 2022,Saturday,2022Q3
+514,2022-08-24,Cold coffee,Beverages,40,8,320,Online,Female,Evening,Aug,2022,Aug 2022,Wednesday,2022Q3
+515,2022-11-02,Sandwich,Fastfood,60,7,420,unknown,Female,Night,Nov,2022,Nov 2022,Wednesday,2022Q4
+516,2022-09-22,Sugarcane juice,Beverages,25,12,300,Online,Female,Midnight,Sep,2022,Sep 2022,Thursday,2022Q3
+517,2022-07-02,Panipuri,Fastfood,20,13,260,Online,Male,Evening,Jul,2022,Jul 2022,Saturday,2022Q3
+518,2022-12-09,Aalopuri,Fastfood,20,6,120,Cash,Female,Morning,Dec,2022,Dec 2022,Friday,2022Q4
+519,2022-11-25,Cold coffee,Beverages,40,10,400,Cash,Male,Morning,Nov,2022,Nov 2022,Friday,2022Q4
+520,2022-04-03,Panipuri,Fastfood,20,11,220,Online,Female,Night,Apr,2022,Apr 2022,Sunday,2022Q2
+521,2023-01-27,Panipuri,Fastfood,20,14,280,Online,Male,Morning,Jan,2023,Jan 2023,Friday,2023Q1
+522,2022-12-29,Panipuri,Fastfood,20,13,260,Cash,Female,Midnight,Dec,2022,Dec 2022,Thursday,2022Q4
+523,2022-11-03,Frankie,Fastfood,50,6,300,Cash,Male,Afternoon,Nov,2022,Nov 2022,Thursday,2022Q4
+524,2022-05-01,Aalopuri,Fastfood,20,13,260,Online,Male,Afternoon,May,2022,May 2022,Sunday,2022Q2
+525,2022-05-04,Vadapav,Fastfood,20,3,60,Cash,Male,Midnight,May,2022,May 2022,Wednesday,2022Q2
+526,2022-07-04,Sandwich,Fastfood,60,10,600,Cash,Female,Evening,Jul,2022,Jul 2022,Monday,2022Q3
+527,2023-01-06,Sugarcane juice,Beverages,25,6,150,Cash,Female,Afternoon,Jan,2023,Jan 2023,Friday,2023Q1
+528,2022-07-01,Sugarcane juice,Beverages,25,7,175,Cash,Female,Midnight,Jul,2022,Jul 2022,Friday,2022Q3
+529,2022-05-15,Aalopuri,Fastfood,20,12,240,unknown,Female,Afternoon,May,2022,May 2022,Sunday,2022Q2
+530,2022-07-27,Panipuri,Fastfood,20,6,120,Cash,Female,Night,Jul,2022,Jul 2022,Wednesday,2022Q3
+531,2022-10-04,Cold coffee,Beverages,40,10,400,Cash,Male,Night,Oct,2022,Oct 2022,Tuesday,2022Q4
+532,2023-03-27,Panipuri,Fastfood,20,13,260,Online,Female,Midnight,Mar,2023,Mar 2023,Monday,2023Q1
+533,2023-02-05,Frankie,Fastfood,50,2,100,unknown,Female,Night,Feb,2023,Feb 2023,Sunday,2023Q1
+534,2022-05-16,Vadapav,Fastfood,20,2,40,Online,Female,Night,May,2022,May 2022,Monday,2022Q2
+535,2022-09-05,Sandwich,Fastfood,60,4,240,Online,Male,Midnight,Sep,2022,Sep 2022,Monday,2022Q3
+536,2023-03-01,Sugarcane juice,Beverages,25,7,175,Cash,Female,Evening,Mar,2023,Mar 2023,Wednesday,2023Q1
+537,2023-01-25,Panipuri,Fastfood,20,3,60,Cash,Male,Evening,Jan,2023,Jan 2023,Wednesday,2023Q1
+538,2022-06-05,Panipuri,Fastfood,20,7,140,Online,Male,Morning,Jun,2022,Jun 2022,Sunday,2022Q2
+539,2022-09-07,Panipuri,Fastfood,20,3,60,Online,Male,Evening,Sep,2022,Sep 2022,Wednesday,2022Q3
+540,2022-05-27,Vadapav,Fastfood,20,13,260,Cash,Male,Afternoon,May,2022,May 2022,Friday,2022Q2
+541,2022-07-30,Panipuri,Fastfood,20,12,240,Cash,Male,Night,Jul,2022,Jul 2022,Saturday,2022Q3
+542,2022-08-04,Sugarcane juice,Beverages,25,9,225,Cash,Male,Evening,Aug,2022,Aug 2022,Thursday,2022Q3
+543,2022-04-10,Aalopuri,Fastfood,20,15,300,Cash,Female,Evening,Apr,2022,Apr 2022,Sunday,2022Q2
+544,2022-12-14,Sandwich,Fastfood,60,15,900,Online,Female,Morning,Dec,2022,Dec 2022,Wednesday,2022Q4
+545,2023-01-01,Sandwich,Fastfood,60,13,780,Online,Female,Midnight,Jan,2023,Jan 2023,Sunday,2023Q1
+546,2022-07-09,Aalopuri,Fastfood,20,1,20,Cash,Female,Midnight,Jul,2022,Jul 2022,Saturday,2022Q3
+547,2022-05-14,Cold coffee,Beverages,40,10,400,Online,Male,Morning,May,2022,May 2022,Saturday,2022Q2
+548,2023-03-29,Cold coffee,Beverages,40,14,560,Cash,Male,Afternoon,Mar,2023,Mar 2023,Wednesday,2023Q1
+549,2022-04-15,Sugarcane juice,Beverages,25,3,75,Online,Male,Afternoon,Apr,2022,Apr 2022,Friday,2022Q2
+550,2022-11-15,Cold coffee,Beverages,40,15,600,Online,Male,Afternoon,Nov,2022,Nov 2022,Tuesday,2022Q4
+551,2022-07-30,Sugarcane juice,Beverages,25,7,175,Cash,Male,Evening,Jul,2022,Jul 2022,Saturday,2022Q3
+552,2022-09-12,Sugarcane juice,Beverages,25,15,375,Cash,Female,Midnight,Sep,2022,Sep 2022,Monday,2022Q3
+553,2022-11-11,Panipuri,Fastfood,20,14,280,Cash,Male,Evening,Nov,2022,Nov 2022,Friday,2022Q4
+554,2023-03-09,Panipuri,Fastfood,20,4,80,Cash,Female,Afternoon,Mar,2023,Mar 2023,Thursday,2023Q1
+555,2022-04-16,Sandwich,Fastfood,60,6,360,Cash,Female,Evening,Apr,2022,Apr 2022,Saturday,2022Q2
+556,2023-02-27,Vadapav,Fastfood,20,9,180,Cash,Female,Night,Feb,2023,Feb 2023,Monday,2023Q1
+557,2022-06-30,Sandwich,Fastfood,60,2,120,Cash,Female,Evening,Jun,2022,Jun 2022,Thursday,2022Q2
+558,2022-10-01,Panipuri,Fastfood,20,5,100,Online,Male,Morning,Oct,2022,Oct 2022,Saturday,2022Q4
+559,2022-08-31,Cold coffee,Beverages,40,5,200,Online,Female,Night,Aug,2022,Aug 2022,Wednesday,2022Q3
+560,2022-12-10,Sugarcane juice,Beverages,25,1,25,Cash,Male,Evening,Dec,2022,Dec 2022,Saturday,2022Q4
+561,2022-06-13,Panipuri,Fastfood,20,1,20,Cash,Female,Midnight,Jun,2022,Jun 2022,Monday,2022Q2
+562,2022-08-09,Frankie,Fastfood,50,4,200,Cash,Male,Afternoon,Aug,2022,Aug 2022,Tuesday,2022Q3
+563,2022-10-13,Frankie,Fastfood,50,7,350,Online,Female,Evening,Oct,2022,Oct 2022,Thursday,2022Q4
+564,2022-09-27,Cold coffee,Beverages,40,2,80,unknown,Male,Morning,Sep,2022,Sep 2022,Tuesday,2022Q3
+565,2022-09-27,Panipuri,Fastfood,20,15,300,Cash,Male,Evening,Sep,2022,Sep 2022,Tuesday,2022Q3
+566,2022-07-19,Frankie,Fastfood,50,3,150,Cash,Male,Evening,Jul,2022,Jul 2022,Tuesday,2022Q3
+567,2022-10-16,Cold coffee,Beverages,40,7,280,Online,Female,Afternoon,Oct,2022,Oct 2022,Sunday,2022Q4
+568,2022-12-29,Panipuri,Fastfood,20,12,240,unknown,Female,Afternoon,Dec,2022,Dec 2022,Thursday,2022Q4
+569,2023-01-02,Cold coffee,Beverages,40,15,600,Online,Female,Midnight,Jan,2023,Jan 2023,Monday,2023Q1
+570,2022-09-15,Sugarcane juice,Beverages,25,4,100,Cash,Male,Morning,Sep,2022,Sep 2022,Thursday,2022Q3
+571,2022-11-28,Sugarcane juice,Beverages,25,1,25,Cash,Female,Evening,Nov,2022,Nov 2022,Monday,2022Q4
+572,2022-04-02,Sandwich,Fastfood,60,15,900,Cash,Male,Afternoon,Apr,2022,Apr 2022,Saturday,2022Q2
+573,2022-09-07,Frankie,Fastfood,50,2,100,Cash,Male,Afternoon,Sep,2022,Sep 2022,Wednesday,2022Q3
+574,2022-10-22,Aalopuri,Fastfood,20,1,20,Cash,Female,Night,Oct,2022,Oct 2022,Saturday,2022Q4
+575,2022-12-24,Vadapav,Fastfood,20,1,20,Online,Female,Midnight,Dec,2022,Dec 2022,Saturday,2022Q4
+576,2023-03-23,Panipuri,Fastfood,20,12,240,Cash,Female,Afternoon,Mar,2023,Mar 2023,Thursday,2023Q1
+577,2022-09-06,Cold coffee,Beverages,40,7,280,Cash,Male,Evening,Sep,2022,Sep 2022,Tuesday,2022Q3
+578,2022-06-30,Frankie,Fastfood,50,5,250,Online,Female,Night,Jun,2022,Jun 2022,Thursday,2022Q2
+579,2022-04-27,Panipuri,Fastfood,20,2,40,Cash,Male,Evening,Apr,2022,Apr 2022,Wednesday,2022Q2
+580,2022-07-01,Panipuri,Fastfood,20,10,200,Online,Male,Night,Jul,2022,Jul 2022,Friday,2022Q3
+581,2022-04-23,Sugarcane juice,Beverages,25,13,325,Cash,Male,Afternoon,Apr,2022,Apr 2022,Saturday,2022Q2
+582,2022-05-12,Aalopuri,Fastfood,20,13,260,Cash,Male,Morning,May,2022,May 2022,Thursday,2022Q2
+583,2022-05-31,Frankie,Fastfood,50,8,400,Cash,Male,Night,May,2022,May 2022,Tuesday,2022Q2
+584,2022-12-04,Cold coffee,Beverages,40,15,600,Cash,Male,Morning,Dec,2022,Dec 2022,Sunday,2022Q4
+585,2023-03-05,Vadapav,Fastfood,20,11,220,Cash,Female,Morning,Mar,2023,Mar 2023,Sunday,2023Q1
+586,2022-05-22,Sandwich,Fastfood,60,15,900,Online,Male,Night,May,2022,May 2022,Sunday,2022Q2
+587,2022-04-09,Aalopuri,Fastfood,20,10,200,Cash,Female,Night,Apr,2022,Apr 2022,Saturday,2022Q2
+588,2022-06-16,Frankie,Fastfood,50,11,550,Cash,Female,Morning,Jun,2022,Jun 2022,Thursday,2022Q2
+589,2022-08-25,Cold coffee,Beverages,40,5,200,Cash,Male,Night,Aug,2022,Aug 2022,Thursday,2022Q3
+590,2023-03-27,Panipuri,Fastfood,20,15,300,Online,Male,Midnight,Mar,2023,Mar 2023,Monday,2023Q1
+591,2022-10-01,Sandwich,Fastfood,60,13,780,Cash,Female,Morning,Oct,2022,Oct 2022,Saturday,2022Q4
+592,2022-12-04,Sugarcane juice,Beverages,25,7,175,Cash,Male,Morning,Dec,2022,Dec 2022,Sunday,2022Q4
+593,2023-02-16,Sugarcane juice,Beverages,25,9,225,Cash,Female,Evening,Feb,2023,Feb 2023,Thursday,2023Q1
+594,2023-01-20,Frankie,Fastfood,50,6,300,Cash,Female,Morning,Jan,2023,Jan 2023,Friday,2023Q1
+595,2023-02-22,Frankie,Fastfood,50,9,450,Online,Male,Afternoon,Feb,2023,Feb 2023,Wednesday,2023Q1
+596,2022-04-26,Cold coffee,Beverages,40,1,40,Online,Female,Night,Apr,2022,Apr 2022,Tuesday,2022Q2
+597,2022-11-30,Panipuri,Fastfood,20,10,200,Online,Male,Midnight,Nov,2022,Nov 2022,Wednesday,2022Q4
+598,2022-08-02,Cold coffee,Beverages,40,8,320,Cash,Female,Afternoon,Aug,2022,Aug 2022,Tuesday,2022Q3
+599,2022-10-03,Frankie,Fastfood,50,13,650,Cash,Male,Morning,Oct,2022,Oct 2022,Monday,2022Q4
+600,2022-12-24,Panipuri,Fastfood,20,6,120,Cash,Female,Morning,Dec,2022,Dec 2022,Saturday,2022Q4
+601,2022-11-01,Aalopuri,Fastfood,20,12,240,Online,Male,Morning,Nov,2022,Nov 2022,Tuesday,2022Q4
+602,2022-08-27,Aalopuri,Fastfood,20,10,200,Cash,Male,Night,Aug,2022,Aug 2022,Saturday,2022Q3
+603,2022-08-31,Vadapav,Fastfood,20,10,200,Cash,Female,Afternoon,Aug,2022,Aug 2022,Wednesday,2022Q3
+604,2022-09-08,Frankie,Fastfood,50,10,500,Cash,Female,Night,Sep,2022,Sep 2022,Thursday,2022Q3
+605,2022-04-04,Cold coffee,Beverages,40,15,600,unknown,Female,Afternoon,Apr,2022,Apr 2022,Monday,2022Q2
+606,2022-04-09,Cold coffee,Beverages,40,6,240,Cash,Female,Night,Apr,2022,Apr 2022,Saturday,2022Q2
+607,2022-12-15,Vadapav,Fastfood,20,9,180,Cash,Female,Afternoon,Dec,2022,Dec 2022,Thursday,2022Q4
+608,2023-02-28,Aalopuri,Fastfood,20,1,20,Online,Male,Midnight,Feb,2023,Feb 2023,Tuesday,2023Q1
+609,2023-02-07,Aalopuri,Fastfood,20,14,280,unknown,Male,Midnight,Feb,2023,Feb 2023,Tuesday,2023Q1
+610,2022-05-08,Frankie,Fastfood,50,13,650,Online,Female,Evening,May,2022,May 2022,Sunday,2022Q2
+611,2022-06-25,Aalopuri,Fastfood,20,2,40,Online,Female,Morning,Jun,2022,Jun 2022,Saturday,2022Q2
+612,2023-02-06,Aalopuri,Fastfood,20,3,60,Online,Male,Midnight,Feb,2023,Feb 2023,Monday,2023Q1
+613,2022-06-10,Vadapav,Fastfood,20,5,100,Online,Female,Night,Jun,2022,Jun 2022,Friday,2022Q2
+614,2022-12-19,Vadapav,Fastfood,20,2,40,unknown,Male,Morning,Dec,2022,Dec 2022,Monday,2022Q4
+615,2022-08-14,Sandwich,Fastfood,60,14,840,unknown,Male,Morning,Aug,2022,Aug 2022,Sunday,2022Q3
+616,2022-07-15,Vadapav,Fastfood,20,6,120,Online,Female,Midnight,Jul,2022,Jul 2022,Friday,2022Q3
+617,2022-06-28,Sugarcane juice,Beverages,25,2,50,Cash,Male,Night,Jun,2022,Jun 2022,Tuesday,2022Q2
+618,2022-04-08,Frankie,Fastfood,50,1,50,Online,Male,Evening,Apr,2022,Apr 2022,Friday,2022Q2
+619,2022-09-09,Sugarcane juice,Beverages,25,4,100,Cash,Female,Morning,Sep,2022,Sep 2022,Friday,2022Q3
+620,2022-09-14,Panipuri,Fastfood,20,12,240,Online,Female,Evening,Sep,2022,Sep 2022,Wednesday,2022Q3
+621,2023-02-13,Aalopuri,Fastfood,20,2,40,Online,Female,Evening,Feb,2023,Feb 2023,Monday,2023Q1
+622,2022-12-14,Panipuri,Fastfood,20,13,260,Online,Male,Afternoon,Dec,2022,Dec 2022,Wednesday,2022Q4
+623,2022-04-02,Cold coffee,Beverages,40,15,600,Cash,Male,Midnight,Apr,2022,Apr 2022,Saturday,2022Q2
+624,2023-03-08,Sandwich,Fastfood,60,9,540,Cash,Female,Morning,Mar,2023,Mar 2023,Wednesday,2023Q1
+625,2022-06-17,Sandwich,Fastfood,60,15,900,Online,Male,Morning,Jun,2022,Jun 2022,Friday,2022Q2
+626,2023-02-01,Cold coffee,Beverages,40,15,600,Cash,Male,Night,Feb,2023,Feb 2023,Wednesday,2023Q1
+627,2022-06-22,Sugarcane juice,Beverages,25,15,375,Online,Male,Afternoon,Jun,2022,Jun 2022,Wednesday,2022Q2
+628,2022-05-02,Cold coffee,Beverages,40,10,400,unknown,Female,Night,May,2022,May 2022,Monday,2022Q2
+629,2023-01-20,Sugarcane juice,Beverages,25,9,225,Cash,Female,Evening,Jan,2023,Jan 2023,Friday,2023Q1
+630,2022-05-27,Frankie,Fastfood,50,7,350,unknown,Female,Morning,May,2022,May 2022,Friday,2022Q2
+631,2022-07-01,Cold coffee,Beverages,40,13,520,Cash,Female,Evening,Jul,2022,Jul 2022,Friday,2022Q3
+632,2022-10-28,Panipuri,Fastfood,20,9,180,Online,Female,Night,Oct,2022,Oct 2022,Friday,2022Q4
+633,2022-05-24,Cold coffee,Beverages,40,3,120,Online,Male,Evening,May,2022,May 2022,Tuesday,2022Q2
+634,2022-07-26,Panipuri,Fastfood,20,13,260,Cash,Male,Afternoon,Jul,2022,Jul 2022,Tuesday,2022Q3
+635,2023-02-06,Vadapav,Fastfood,20,15,300,Online,Female,Night,Feb,2023,Feb 2023,Monday,2023Q1
+636,2022-04-26,Cold coffee,Beverages,40,12,480,unknown,Male,Morning,Apr,2022,Apr 2022,Tuesday,2022Q2
+637,2022-05-14,Aalopuri,Fastfood,20,7,140,Cash,Male,Midnight,May,2022,May 2022,Saturday,2022Q2
+638,2022-08-20,Cold coffee,Beverages,40,11,440,Online,Female,Afternoon,Aug,2022,Aug 2022,Saturday,2022Q3
+639,2023-01-26,Vadapav,Fastfood,20,14,280,Cash,Female,Morning,Jan,2023,Jan 2023,Thursday,2023Q1
+640,2023-01-04,Sandwich,Fastfood,60,15,900,Online,Male,Night,Jan,2023,Jan 2023,Wednesday,2023Q1
+641,2023-02-09,Vadapav,Fastfood,20,15,300,Cash,Male,Afternoon,Feb,2023,Feb 2023,Thursday,2023Q1
+642,2022-05-09,Cold coffee,Beverages,40,10,400,Online,Female,Morning,May,2022,May 2022,Monday,2022Q2
+643,2022-10-20,Sugarcane juice,Beverages,25,2,50,Cash,Male,Afternoon,Oct,2022,Oct 2022,Thursday,2022Q4
+644,2023-02-03,Panipuri,Fastfood,20,5,100,Online,Female,Evening,Feb,2023,Feb 2023,Friday,2023Q1
+645,2022-07-26,Sandwich,Fastfood,60,9,540,Cash,Female,Night,Jul,2022,Jul 2022,Tuesday,2022Q3
+646,2022-08-30,Vadapav,Fastfood,20,14,280,Online,Female,Afternoon,Aug,2022,Aug 2022,Tuesday,2022Q3
+647,2022-06-05,Vadapav,Fastfood,20,3,60,Cash,Male,Afternoon,Jun,2022,Jun 2022,Sunday,2022Q2
+648,2022-05-27,Sandwich,Fastfood,60,7,420,Cash,Male,Night,May,2022,May 2022,Friday,2022Q2
+649,2022-11-05,Frankie,Fastfood,50,9,450,Cash,Male,Midnight,Nov,2022,Nov 2022,Saturday,2022Q4
+650,2022-04-07,Sandwich,Fastfood,60,13,780,Online,Female,Morning,Apr,2022,Apr 2022,Thursday,2022Q2
+651,2022-07-11,Sandwich,Fastfood,60,10,600,Online,Female,Midnight,Jul,2022,Jul 2022,Monday,2022Q3
+652,2022-05-21,Cold coffee,Beverages,40,13,520,Online,Female,Afternoon,May,2022,May 2022,Saturday,2022Q2
+653,2022-05-30,Frankie,Fastfood,50,10,500,Online,Female,Midnight,May,2022,May 2022,Monday,2022Q2
+654,2023-03-04,Vadapav,Fastfood,20,9,180,Cash,Female,Morning,Mar,2023,Mar 2023,Saturday,2023Q1
+655,2022-06-30,Sugarcane juice,Beverages,25,12,300,Online,Male,Morning,Jun,2022,Jun 2022,Thursday,2022Q2
+656,2022-11-28,Sandwich,Fastfood,60,6,360,Online,Female,Midnight,Nov,2022,Nov 2022,Monday,2022Q4
+657,2023-01-10,Cold coffee,Beverages,40,7,280,unknown,Male,Midnight,Jan,2023,Jan 2023,Tuesday,2023Q1
+658,2022-10-10,Aalopuri,Fastfood,20,12,240,unknown,Female,Afternoon,Oct,2022,Oct 2022,Monday,2022Q4
+659,2023-01-21,Panipuri,Fastfood,20,2,40,Online,Male,Afternoon,Jan,2023,Jan 2023,Saturday,2023Q1
+660,2022-07-25,Sandwich,Fastfood,60,9,540,Cash,Female,Night,Jul,2022,Jul 2022,Monday,2022Q3
+661,2022-10-11,Frankie,Fastfood,50,7,350,Online,Female,Midnight,Oct,2022,Oct 2022,Tuesday,2022Q4
+662,2023-02-15,Panipuri,Fastfood,20,3,60,Online,Female,Afternoon,Feb,2023,Feb 2023,Wednesday,2023Q1
+663,2023-02-05,Sugarcane juice,Beverages,25,1,25,Online,Male,Night,Feb,2023,Feb 2023,Sunday,2023Q1
+664,2022-10-31,Frankie,Fastfood,50,10,500,Online,Female,Morning,Oct,2022,Oct 2022,Monday,2022Q4
+665,2022-05-06,Aalopuri,Fastfood,20,14,280,Online,Female,Evening,May,2022,May 2022,Friday,2022Q2
+666,2023-01-25,Panipuri,Fastfood,20,9,180,Cash,Male,Evening,Jan,2023,Jan 2023,Wednesday,2023Q1
+667,2022-09-28,Vadapav,Fastfood,20,3,60,Cash,Female,Evening,Sep,2022,Sep 2022,Wednesday,2022Q3
+668,2022-05-11,Aalopuri,Fastfood,20,4,80,Online,Male,Morning,May,2022,May 2022,Wednesday,2022Q2
+669,2023-03-18,Sandwich,Fastfood,60,11,660,Online,Male,Evening,Mar,2023,Mar 2023,Saturday,2023Q1
+670,2022-07-05,Panipuri,Fastfood,20,15,300,Cash,Male,Night,Jul,2022,Jul 2022,Tuesday,2022Q3
+671,2022-10-09,Sandwich,Fastfood,60,2,120,Online,Male,Afternoon,Oct,2022,Oct 2022,Sunday,2022Q4
+672,2022-11-24,Cold coffee,Beverages,40,3,120,unknown,Female,Evening,Nov,2022,Nov 2022,Thursday,2022Q4
+673,2022-09-17,Sandwich,Fastfood,60,12,720,Cash,Male,Midnight,Sep,2022,Sep 2022,Saturday,2022Q3
+674,2022-07-17,Sugarcane juice,Beverages,25,13,325,unknown,Male,Morning,Jul,2022,Jul 2022,Sunday,2022Q3
+675,2022-04-17,Sandwich,Fastfood,60,12,720,Cash,Male,Night,Apr,2022,Apr 2022,Sunday,2022Q2
+676,2022-05-04,Frankie,Fastfood,50,7,350,Cash,Female,Evening,May,2022,May 2022,Wednesday,2022Q2
+677,2022-05-19,Cold coffee,Beverages,40,3,120,Online,Female,Morning,May,2022,May 2022,Thursday,2022Q2
+678,2022-05-23,Aalopuri,Fastfood,20,3,60,Online,Male,Evening,May,2022,May 2022,Monday,2022Q2
+679,2022-11-02,Sandwich,Fastfood,60,12,720,Online,Male,Morning,Nov,2022,Nov 2022,Wednesday,2022Q4
+680,2022-04-20,Cold coffee,Beverages,40,4,160,Cash,Male,Night,Apr,2022,Apr 2022,Wednesday,2022Q2
+681,2022-12-09,Frankie,Fastfood,50,9,450,Online,Female,Night,Dec,2022,Dec 2022,Friday,2022Q4
+682,2022-10-11,Aalopuri,Fastfood,20,14,280,Online,Male,Midnight,Oct,2022,Oct 2022,Tuesday,2022Q4
+683,2022-08-12,Frankie,Fastfood,50,15,750,Cash,Male,Midnight,Aug,2022,Aug 2022,Friday,2022Q3
+684,2022-09-18,Vadapav,Fastfood,20,5,100,Cash,Male,Afternoon,Sep,2022,Sep 2022,Sunday,2022Q3
+685,2022-05-20,Aalopuri,Fastfood,20,3,60,Cash,Female,Afternoon,May,2022,May 2022,Friday,2022Q2
+686,2022-11-25,Cold coffee,Beverages,40,5,200,Cash,Male,Afternoon,Nov,2022,Nov 2022,Friday,2022Q4
+687,2022-12-18,Vadapav,Fastfood,20,10,200,Cash,Female,Midnight,Dec,2022,Dec 2022,Sunday,2022Q4
+688,2022-05-14,Frankie,Fastfood,50,5,250,Online,Male,Afternoon,May,2022,May 2022,Saturday,2022Q2
+689,2022-08-13,Vadapav,Fastfood,20,6,120,Cash,Female,Afternoon,Aug,2022,Aug 2022,Saturday,2022Q3
+690,2022-10-05,Vadapav,Fastfood,20,9,180,Cash,Female,Night,Oct,2022,Oct 2022,Wednesday,2022Q4
+691,2022-04-01,Sandwich,Fastfood,60,7,420,Cash,Female,Evening,Apr,2022,Apr 2022,Friday,2022Q2
+692,2023-01-13,Frankie,Fastfood,50,14,700,Online,Male,Afternoon,Jan,2023,Jan 2023,Friday,2023Q1
+693,2022-11-29,Sugarcane juice,Beverages,25,13,325,Online,Female,Midnight,Nov,2022,Nov 2022,Tuesday,2022Q4
+694,2022-04-22,Panipuri,Fastfood,20,14,280,Cash,Male,Midnight,Apr,2022,Apr 2022,Friday,2022Q2
+695,2022-08-24,Panipuri,Fastfood,20,10,200,Online,Female,Midnight,Aug,2022,Aug 2022,Wednesday,2022Q3
+696,2023-02-23,Sugarcane juice,Beverages,25,3,75,Online,Female,Evening,Feb,2023,Feb 2023,Thursday,2023Q1
+697,2022-05-05,Sugarcane juice,Beverages,25,5,125,Cash,Male,Midnight,May,2022,May 2022,Thursday,2022Q2
+698,2022-11-26,Panipuri,Fastfood,20,10,200,Online,Male,Night,Nov,2022,Nov 2022,Saturday,2022Q4
+699,2022-09-09,Cold coffee,Beverages,40,1,40,Online,Male,Evening,Sep,2022,Sep 2022,Friday,2022Q3
+700,2022-11-15,Frankie,Fastfood,50,6,300,Cash,Female,Evening,Nov,2022,Nov 2022,Tuesday,2022Q4
+701,2022-07-19,Sugarcane juice,Beverages,25,14,350,Online,Female,Evening,Jul,2022,Jul 2022,Tuesday,2022Q3
+702,2023-03-25,Cold coffee,Beverages,40,13,520,Cash,Female,Afternoon,Mar,2023,Mar 2023,Saturday,2023Q1
+703,2022-11-01,Panipuri,Fastfood,20,10,200,Online,Female,Afternoon,Nov,2022,Nov 2022,Tuesday,2022Q4
+704,2022-08-14,Sandwich,Fastfood,60,1,60,Online,Female,Evening,Aug,2022,Aug 2022,Sunday,2022Q3
+705,2022-10-07,Sandwich,Fastfood,60,6,360,Online,Male,Evening,Oct,2022,Oct 2022,Friday,2022Q4
+706,2023-02-05,Frankie,Fastfood,50,8,400,Online,Male,Night,Feb,2023,Feb 2023,Sunday,2023Q1
+707,2022-12-16,Panipuri,Fastfood,20,2,40,Online,Male,Night,Dec,2022,Dec 2022,Friday,2022Q4
+708,2023-03-15,Sandwich,Fastfood,60,5,300,Cash,Female,Midnight,Mar,2023,Mar 2023,Wednesday,2023Q1
+709,2023-02-22,Cold coffee,Beverages,40,6,240,Cash,Male,Morning,Feb,2023,Feb 2023,Wednesday,2023Q1
+710,2023-03-15,Sandwich,Fastfood,60,15,900,unknown,Male,Night,Mar,2023,Mar 2023,Wednesday,2023Q1
+711,2022-10-30,Aalopuri,Fastfood,20,3,60,Cash,Male,Afternoon,Oct,2022,Oct 2022,Sunday,2022Q4
+712,2022-12-17,Vadapav,Fastfood,20,3,60,Online,Female,Midnight,Dec,2022,Dec 2022,Saturday,2022Q4
+713,2022-12-02,Sugarcane juice,Beverages,25,14,350,Online,Female,Morning,Dec,2022,Dec 2022,Friday,2022Q4
+714,2022-12-14,Sugarcane juice,Beverages,25,14,350,Cash,Male,Afternoon,Dec,2022,Dec 2022,Wednesday,2022Q4
+715,2022-04-12,Sandwich,Fastfood,60,1,60,Online,Male,Morning,Apr,2022,Apr 2022,Tuesday,2022Q2
+716,2022-12-03,Panipuri,Fastfood,20,9,180,Cash,Female,Midnight,Dec,2022,Dec 2022,Saturday,2022Q4
+717,2022-10-11,Sugarcane juice,Beverages,25,15,375,unknown,Female,Evening,Oct,2022,Oct 2022,Tuesday,2022Q4
+718,2022-12-28,Aalopuri,Fastfood,20,2,40,Online,Male,Afternoon,Dec,2022,Dec 2022,Wednesday,2022Q4
+719,2022-05-09,Vadapav,Fastfood,20,15,300,Cash,Female,Midnight,May,2022,May 2022,Monday,2022Q2
+720,2022-05-10,Frankie,Fastfood,50,14,700,Cash,Female,Morning,May,2022,May 2022,Tuesday,2022Q2
+721,2022-08-13,Panipuri,Fastfood,20,12,240,unknown,Male,Afternoon,Aug,2022,Aug 2022,Saturday,2022Q3
+722,2022-09-14,Vadapav,Fastfood,20,15,300,unknown,Male,Midnight,Sep,2022,Sep 2022,Wednesday,2022Q3
+723,2023-02-16,Cold coffee,Beverages,40,10,400,Online,Male,Evening,Feb,2023,Feb 2023,Thursday,2023Q1
+724,2022-06-27,Frankie,Fastfood,50,10,500,Cash,Female,Night,Jun,2022,Jun 2022,Monday,2022Q2
+725,2022-07-04,Vadapav,Fastfood,20,6,120,Online,Female,Afternoon,Jul,2022,Jul 2022,Monday,2022Q3
+726,2022-09-11,Panipuri,Fastfood,20,1,20,Online,Male,Morning,Sep,2022,Sep 2022,Sunday,2022Q3
+727,2022-08-25,Aalopuri,Fastfood,20,5,100,Cash,Female,Midnight,Aug,2022,Aug 2022,Thursday,2022Q3
+728,2022-08-03,Vadapav,Fastfood,20,1,20,Online,Male,Midnight,Aug,2022,Aug 2022,Wednesday,2022Q3
+729,2022-11-24,Sandwich,Fastfood,60,7,420,Cash,Male,Night,Nov,2022,Nov 2022,Thursday,2022Q4
+730,2022-06-28,Frankie,Fastfood,50,13,650,Cash,Female,Afternoon,Jun,2022,Jun 2022,Tuesday,2022Q2
+731,2023-03-09,Frankie,Fastfood,50,10,500,Cash,Female,Afternoon,Mar,2023,Mar 2023,Thursday,2023Q1
+732,2022-06-13,Panipuri,Fastfood,20,7,140,unknown,Female,Midnight,Jun,2022,Jun 2022,Monday,2022Q2
+733,2023-02-03,Frankie,Fastfood,50,10,500,Cash,Male,Evening,Feb,2023,Feb 2023,Friday,2023Q1
+734,2022-10-07,Frankie,Fastfood,50,7,350,Cash,Male,Evening,Oct,2022,Oct 2022,Friday,2022Q4
+735,2022-08-10,Panipuri,Fastfood,20,11,220,Cash,Male,Morning,Aug,2022,Aug 2022,Wednesday,2022Q3
+736,2022-09-25,Panipuri,Fastfood,20,13,260,unknown,Male,Afternoon,Sep,2022,Sep 2022,Sunday,2022Q3
+737,2022-09-20,Frankie,Fastfood,50,13,650,Online,Female,Night,Sep,2022,Sep 2022,Tuesday,2022Q3
+738,2023-03-01,Sandwich,Fastfood,60,4,240,Online,Female,Morning,Mar,2023,Mar 2023,Wednesday,2023Q1
+739,2022-06-06,Aalopuri,Fastfood,20,11,220,Online,Male,Night,Jun,2022,Jun 2022,Monday,2022Q2
+740,2022-07-30,Aalopuri,Fastfood,20,9,180,Cash,Male,Midnight,Jul,2022,Jul 2022,Saturday,2022Q3
+741,2022-07-16,Aalopuri,Fastfood,20,5,100,Online,Male,Afternoon,Jul,2022,Jul 2022,Saturday,2022Q3
+742,2022-11-18,Panipuri,Fastfood,20,14,280,Online,Male,Night,Nov,2022,Nov 2022,Friday,2022Q4
+743,2022-11-09,Panipuri,Fastfood,20,1,20,Cash,Male,Morning,Nov,2022,Nov 2022,Wednesday,2022Q4
+744,2022-06-25,Frankie,Fastfood,50,10,500,Cash,Female,Morning,Jun,2022,Jun 2022,Saturday,2022Q2
+745,2022-09-11,Aalopuri,Fastfood,20,2,40,Online,Male,Evening,Sep,2022,Sep 2022,Sunday,2022Q3
+746,2022-08-05,Sugarcane juice,Beverages,25,5,125,Online,Female,Midnight,Aug,2022,Aug 2022,Friday,2022Q3
+747,2023-01-14,Cold coffee,Beverages,40,3,120,Cash,Female,Midnight,Jan,2023,Jan 2023,Saturday,2023Q1
+748,2022-09-20,Sandwich,Fastfood,60,14,840,Cash,Female,Night,Sep,2022,Sep 2022,Tuesday,2022Q3
+749,2022-08-31,Vadapav,Fastfood,20,11,220,Cash,Male,Morning,Aug,2022,Aug 2022,Wednesday,2022Q3
+750,2023-02-01,Frankie,Fastfood,50,1,50,Online,Male,Evening,Feb,2023,Feb 2023,Wednesday,2023Q1
+751,2022-09-16,Vadapav,Fastfood,20,2,40,Cash,Male,Afternoon,Sep,2022,Sep 2022,Friday,2022Q3
+752,2022-06-04,Panipuri,Fastfood,20,2,40,Online,Female,Morning,Jun,2022,Jun 2022,Saturday,2022Q2
+753,2022-06-26,Sugarcane juice,Beverages,25,1,25,Cash,Male,Midnight,Jun,2022,Jun 2022,Sunday,2022Q2
+754,2022-12-29,Sugarcane juice,Beverages,25,14,350,Cash,Female,Evening,Dec,2022,Dec 2022,Thursday,2022Q4
+755,2023-01-02,Aalopuri,Fastfood,20,12,240,Cash,Female,Night,Jan,2023,Jan 2023,Monday,2023Q1
+756,2022-10-21,Sugarcane juice,Beverages,25,10,250,Online,Female,Morning,Oct,2022,Oct 2022,Friday,2022Q4
+757,2022-12-25,Sugarcane juice,Beverages,25,11,275,Online,Male,Morning,Dec,2022,Dec 2022,Sunday,2022Q4
+758,2022-09-25,Vadapav,Fastfood,20,3,60,Cash,Female,Evening,Sep,2022,Sep 2022,Sunday,2022Q3
+759,2022-12-25,Sugarcane juice,Beverages,25,13,325,Online,Male,Midnight,Dec,2022,Dec 2022,Sunday,2022Q4
+760,2022-11-14,Sugarcane juice,Beverages,25,1,25,Online,Female,Evening,Nov,2022,Nov 2022,Monday,2022Q4
+761,2022-11-12,Sandwich,Fastfood,60,3,180,unknown,Female,Midnight,Nov,2022,Nov 2022,Saturday,2022Q4
+762,2022-04-09,Vadapav,Fastfood,20,12,240,Online,Female,Midnight,Apr,2022,Apr 2022,Saturday,2022Q2
+763,2022-07-04,Vadapav,Fastfood,20,14,280,unknown,Female,Night,Jul,2022,Jul 2022,Monday,2022Q3
+764,2023-02-14,Sandwich,Fastfood,60,7,420,Cash,Female,Night,Feb,2023,Feb 2023,Tuesday,2023Q1
+765,2022-06-15,Sandwich,Fastfood,60,13,780,Cash,Male,Night,Jun,2022,Jun 2022,Wednesday,2022Q2
+766,2022-06-19,Sandwich,Fastfood,60,10,600,Online,Female,Morning,Jun,2022,Jun 2022,Sunday,2022Q2
+767,2023-02-26,Frankie,Fastfood,50,8,400,Cash,Female,Afternoon,Feb,2023,Feb 2023,Sunday,2023Q1
+768,2023-01-12,Sandwich,Fastfood,60,14,840,Cash,Male,Afternoon,Jan,2023,Jan 2023,Thursday,2023Q1
+769,2022-06-07,Frankie,Fastfood,50,8,400,Cash,Male,Morning,Jun,2022,Jun 2022,Tuesday,2022Q2
+770,2023-02-22,Aalopuri,Fastfood,20,8,160,Cash,Female,Morning,Feb,2023,Feb 2023,Wednesday,2023Q1
+771,2022-08-15,Panipuri,Fastfood,20,5,100,Online,Female,Midnight,Aug,2022,Aug 2022,Monday,2022Q3
+772,2023-03-20,Cold coffee,Beverages,40,9,360,Cash,Male,Evening,Mar,2023,Mar 2023,Monday,2023Q1
+773,2022-08-14,Cold coffee,Beverages,40,7,280,Online,Male,Afternoon,Aug,2022,Aug 2022,Sunday,2022Q3
+774,2023-03-15,Vadapav,Fastfood,20,1,20,Online,Female,Night,Mar,2023,Mar 2023,Wednesday,2023Q1
+775,2023-03-27,Sandwich,Fastfood,60,6,360,Cash,Male,Night,Mar,2023,Mar 2023,Monday,2023Q1
+776,2023-02-07,Frankie,Fastfood,50,10,500,Cash,Male,Midnight,Feb,2023,Feb 2023,Tuesday,2023Q1
+777,2022-10-23,Panipuri,Fastfood,20,13,260,Cash,Male,Morning,Oct,2022,Oct 2022,Sunday,2022Q4
+778,2022-06-11,Frankie,Fastfood,50,13,650,Cash,Male,Evening,Jun,2022,Jun 2022,Saturday,2022Q2
+779,2023-01-16,Sandwich,Fastfood,60,13,780,unknown,Male,Night,Jan,2023,Jan 2023,Monday,2023Q1
+780,2022-11-27,Sugarcane juice,Beverages,25,13,325,Online,Female,Afternoon,Nov,2022,Nov 2022,Sunday,2022Q4
+781,2022-05-27,Aalopuri,Fastfood,20,10,200,Online,Male,Midnight,May,2022,May 2022,Friday,2022Q2
+782,2022-12-16,Aalopuri,Fastfood,20,5,100,Online,Male,Night,Dec,2022,Dec 2022,Friday,2022Q4
+783,2022-04-29,Aalopuri,Fastfood,20,8,160,Cash,Male,Morning,Apr,2022,Apr 2022,Friday,2022Q2
+784,2022-07-09,Vadapav,Fastfood,20,8,160,Cash,Female,Morning,Jul,2022,Jul 2022,Saturday,2022Q3
+785,2022-12-07,Aalopuri,Fastfood,20,2,40,Online,Male,Afternoon,Dec,2022,Dec 2022,Wednesday,2022Q4
+786,2023-03-13,Sandwich,Fastfood,60,14,840,Online,Female,Night,Mar,2023,Mar 2023,Monday,2023Q1
+787,2023-03-25,Aalopuri,Fastfood,20,2,40,Cash,Female,Afternoon,Mar,2023,Mar 2023,Saturday,2023Q1
+788,2022-08-13,Sugarcane juice,Beverages,25,7,175,Online,Male,Afternoon,Aug,2022,Aug 2022,Saturday,2022Q3
+789,2022-08-03,Sugarcane juice,Beverages,25,7,175,Cash,Male,Morning,Aug,2022,Aug 2022,Wednesday,2022Q3
+790,2022-07-20,Panipuri,Fastfood,20,3,60,Cash,Female,Evening,Jul,2022,Jul 2022,Wednesday,2022Q3
+791,2022-04-07,Vadapav,Fastfood,20,3,60,unknown,Male,Midnight,Apr,2022,Apr 2022,Thursday,2022Q2
+792,2023-02-25,Vadapav,Fastfood,20,2,40,Cash,Female,Morning,Feb,2023,Feb 2023,Saturday,2023Q1
+793,2022-08-30,Sandwich,Fastfood,60,6,360,Cash,Female,Night,Aug,2022,Aug 2022,Tuesday,2022Q3
+794,2022-10-02,Sugarcane juice,Beverages,25,5,125,Online,Male,Afternoon,Oct,2022,Oct 2022,Sunday,2022Q4
+795,2023-01-10,Vadapav,Fastfood,20,9,180,Cash,Male,Evening,Jan,2023,Jan 2023,Tuesday,2023Q1
+796,2022-06-25,Sugarcane juice,Beverages,25,14,350,Online,Male,Night,Jun,2022,Jun 2022,Saturday,2022Q2
+797,2022-11-26,Cold coffee,Beverages,40,11,440,Cash,Male,Night,Nov,2022,Nov 2022,Saturday,2022Q4
+798,2022-05-22,Frankie,Fastfood,50,12,600,unknown,Male,Night,May,2022,May 2022,Sunday,2022Q2
+799,2023-01-11,Panipuri,Fastfood,20,1,20,Online,Female,Night,Jan,2023,Jan 2023,Wednesday,2023Q1
+800,2022-11-06,Cold coffee,Beverages,40,14,560,Cash,Male,Night,Nov,2022,Nov 2022,Sunday,2022Q4
+801,2022-04-28,Aalopuri,Fastfood,20,7,140,Cash,Female,Evening,Apr,2022,Apr 2022,Thursday,2022Q2
+802,2023-01-23,Sandwich,Fastfood,60,7,420,Online,Female,Afternoon,Jan,2023,Jan 2023,Monday,2023Q1
+803,2022-08-27,Vadapav,Fastfood,20,5,100,unknown,Male,Night,Aug,2022,Aug 2022,Saturday,2022Q3
+804,2022-10-11,Cold coffee,Beverages,40,12,480,Online,Female,Night,Oct,2022,Oct 2022,Tuesday,2022Q4
+805,2022-05-08,Sugarcane juice,Beverages,25,1,25,Online,Male,Afternoon,May,2022,May 2022,Sunday,2022Q2
+806,2022-05-23,Vadapav,Fastfood,20,3,60,Online,Male,Evening,May,2022,May 2022,Monday,2022Q2
+807,2022-06-13,Frankie,Fastfood,50,1,50,Online,Female,Midnight,Jun,2022,Jun 2022,Monday,2022Q2
+808,2022-09-21,Panipuri,Fastfood,20,1,20,Online,Male,Morning,Sep,2022,Sep 2022,Wednesday,2022Q3
+809,2022-12-12,Panipuri,Fastfood,20,10,200,Online,Male,Evening,Dec,2022,Dec 2022,Monday,2022Q4
+810,2022-12-27,Vadapav,Fastfood,20,3,60,Online,Male,Morning,Dec,2022,Dec 2022,Tuesday,2022Q4
+811,2023-03-02,Aalopuri,Fastfood,20,13,260,Cash,Male,Afternoon,Mar,2023,Mar 2023,Thursday,2023Q1
+812,2022-08-08,Panipuri,Fastfood,20,5,100,Cash,Male,Afternoon,Aug,2022,Aug 2022,Monday,2022Q3
+813,2022-10-13,Panipuri,Fastfood,20,10,200,Online,Male,Afternoon,Oct,2022,Oct 2022,Thursday,2022Q4
+814,2022-10-05,Vadapav,Fastfood,20,13,260,Cash,Female,Midnight,Oct,2022,Oct 2022,Wednesday,2022Q4
+815,2022-04-20,Cold coffee,Beverages,40,12,480,Online,Female,Afternoon,Apr,2022,Apr 2022,Wednesday,2022Q2
+816,2023-01-11,Sugarcane juice,Beverages,25,11,275,Cash,Male,Morning,Jan,2023,Jan 2023,Wednesday,2023Q1
+817,2022-05-21,Aalopuri,Fastfood,20,12,240,Cash,Female,Evening,May,2022,May 2022,Saturday,2022Q2
+818,2023-02-28,Frankie,Fastfood,50,6,300,Cash,Male,Night,Feb,2023,Feb 2023,Tuesday,2023Q1
+819,2022-10-12,Vadapav,Fastfood,20,10,200,Cash,Male,Evening,Oct,2022,Oct 2022,Wednesday,2022Q4
+820,2023-02-24,Aalopuri,Fastfood,20,3,60,unknown,Male,Midnight,Feb,2023,Feb 2023,Friday,2023Q1
+821,2022-07-24,Aalopuri,Fastfood,20,12,240,Cash,Female,Midnight,Jul,2022,Jul 2022,Sunday,2022Q3
+822,2022-06-17,Panipuri,Fastfood,20,12,240,Online,Male,Morning,Jun,2022,Jun 2022,Friday,2022Q2
+823,2023-02-13,Panipuri,Fastfood,20,11,220,Online,Male,Midnight,Feb,2023,Feb 2023,Monday,2023Q1
+824,2023-01-18,Vadapav,Fastfood,20,2,40,Online,Female,Evening,Jan,2023,Jan 2023,Wednesday,2023Q1
+825,2022-10-30,Panipuri,Fastfood,20,14,280,Cash,Female,Morning,Oct,2022,Oct 2022,Sunday,2022Q4
+826,2022-12-02,Sandwich,Fastfood,60,15,900,Cash,Female,Night,Dec,2022,Dec 2022,Friday,2022Q4
+827,2023-01-06,Sandwich,Fastfood,60,12,720,Cash,Male,Midnight,Jan,2023,Jan 2023,Friday,2023Q1
+828,2022-08-18,Panipuri,Fastfood,20,6,120,Cash,Male,Evening,Aug,2022,Aug 2022,Thursday,2022Q3
+829,2022-09-19,Cold coffee,Beverages,40,6,240,Cash,Male,Night,Sep,2022,Sep 2022,Monday,2022Q3
+830,2022-11-28,Cold coffee,Beverages,40,9,360,unknown,Male,Night,Nov,2022,Nov 2022,Monday,2022Q4
+831,2022-08-01,Frankie,Fastfood,50,5,250,Online,Female,Morning,Aug,2022,Aug 2022,Monday,2022Q3
+832,2022-06-06,Sugarcane juice,Beverages,25,4,100,Cash,Male,Morning,Jun,2022,Jun 2022,Monday,2022Q2
+833,2022-09-01,Panipuri,Fastfood,20,2,40,Online,Female,Evening,Sep,2022,Sep 2022,Thursday,2022Q3
+834,2022-05-25,Sugarcane juice,Beverages,25,14,350,Cash,Male,Evening,May,2022,May 2022,Wednesday,2022Q2
+835,2022-09-27,Sugarcane juice,Beverages,25,7,175,Online,Male,Afternoon,Sep,2022,Sep 2022,Tuesday,2022Q3
+836,2022-08-31,Vadapav,Fastfood,20,2,40,Cash,Female,Midnight,Aug,2022,Aug 2022,Wednesday,2022Q3
+837,2022-05-19,Aalopuri,Fastfood,20,7,140,Cash,Male,Midnight,May,2022,May 2022,Thursday,2022Q2
+838,2022-07-31,Cold coffee,Beverages,40,9,360,Online,Female,Morning,Jul,2022,Jul 2022,Sunday,2022Q3
+839,2022-05-08,Sugarcane juice,Beverages,25,4,100,Cash,Female,Afternoon,May,2022,May 2022,Sunday,2022Q2
+840,2023-02-18,Cold coffee,Beverages,40,15,600,unknown,Female,Midnight,Feb,2023,Feb 2023,Saturday,2023Q1
+841,2023-02-03,Vadapav,Fastfood,20,9,180,Cash,Male,Night,Feb,2023,Feb 2023,Friday,2023Q1
+842,2022-05-25,Panipuri,Fastfood,20,2,40,Cash,Female,Evening,May,2022,May 2022,Wednesday,2022Q2
+843,2022-07-04,Sugarcane juice,Beverages,25,1,25,Cash,Female,Morning,Jul,2022,Jul 2022,Monday,2022Q3
+844,2022-05-04,Sugarcane juice,Beverages,25,13,325,Cash,Male,Morning,May,2022,May 2022,Wednesday,2022Q2
+845,2022-07-01,Cold coffee,Beverages,40,6,240,Online,Female,Evening,Jul,2022,Jul 2022,Friday,2022Q3
+846,2022-04-20,Aalopuri,Fastfood,20,5,100,Online,Male,Afternoon,Apr,2022,Apr 2022,Wednesday,2022Q2
+847,2022-08-14,Panipuri,Fastfood,20,11,220,Online,Male,Midnight,Aug,2022,Aug 2022,Sunday,2022Q3
+848,2022-11-10,Frankie,Fastfood,50,9,450,Cash,Male,Night,Nov,2022,Nov 2022,Thursday,2022Q4
+849,2022-11-03,Cold coffee,Beverages,40,10,400,Cash,Female,Night,Nov,2022,Nov 2022,Thursday,2022Q4
+850,2022-08-20,Vadapav,Fastfood,20,3,60,Online,Female,Afternoon,Aug,2022,Aug 2022,Saturday,2022Q3
+851,2023-01-28,Aalopuri,Fastfood,20,15,300,Online,Female,Night,Jan,2023,Jan 2023,Saturday,2023Q1
+852,2022-05-05,Sugarcane juice,Beverages,25,8,200,Online,Male,Night,May,2022,May 2022,Thursday,2022Q2
+853,2023-02-17,Cold coffee,Beverages,40,3,120,Online,Female,Midnight,Feb,2023,Feb 2023,Friday,2023Q1
+854,2022-10-14,Cold coffee,Beverages,40,14,560,Online,Female,Night,Oct,2022,Oct 2022,Friday,2022Q4
+855,2022-10-23,Vadapav,Fastfood,20,5,100,Online,Male,Evening,Oct,2022,Oct 2022,Sunday,2022Q4
+856,2022-05-04,Aalopuri,Fastfood,20,11,220,Cash,Female,Night,May,2022,May 2022,Wednesday,2022Q2
+857,2022-11-08,Sugarcane juice,Beverages,25,14,350,Online,Female,Evening,Nov,2022,Nov 2022,Tuesday,2022Q4
+858,2022-11-22,Cold coffee,Beverages,40,9,360,Cash,Male,Evening,Nov,2022,Nov 2022,Tuesday,2022Q4
+859,2022-10-08,Sandwich,Fastfood,60,11,660,Cash,Female,Midnight,Oct,2022,Oct 2022,Saturday,2022Q4
+860,2022-07-16,Cold coffee,Beverages,40,5,200,Cash,Male,Night,Jul,2022,Jul 2022,Saturday,2022Q3
+861,2023-01-24,Sugarcane juice,Beverages,25,8,200,Cash,Female,Night,Jan,2023,Jan 2023,Tuesday,2023Q1
+862,2023-03-10,Frankie,Fastfood,50,7,350,Online,Male,Night,Mar,2023,Mar 2023,Friday,2023Q1
+863,2022-09-08,Frankie,Fastfood,50,9,450,Online,Male,Night,Sep,2022,Sep 2022,Thursday,2022Q3
+864,2022-08-20,Cold coffee,Beverages,40,9,360,Online,Male,Morning,Aug,2022,Aug 2022,Saturday,2022Q3
+865,2023-01-23,Sugarcane juice,Beverages,25,6,150,Cash,Female,Night,Jan,2023,Jan 2023,Monday,2023Q1
+866,2022-08-13,Frankie,Fastfood,50,10,500,Online,Male,Midnight,Aug,2022,Aug 2022,Saturday,2022Q3
+867,2023-01-26,Frankie,Fastfood,50,15,750,Cash,Male,Midnight,Jan,2023,Jan 2023,Thursday,2023Q1
+868,2022-08-17,Aalopuri,Fastfood,20,13,260,Cash,Female,Evening,Aug,2022,Aug 2022,Wednesday,2022Q3
+869,2022-06-26,Panipuri,Fastfood,20,9,180,Online,Male,Midnight,Jun,2022,Jun 2022,Sunday,2022Q2
+870,2022-10-31,Cold coffee,Beverages,40,5,200,Online,Female,Afternoon,Oct,2022,Oct 2022,Monday,2022Q4
+871,2022-12-07,Vadapav,Fastfood,20,14,280,unknown,Female,Evening,Dec,2022,Dec 2022,Wednesday,2022Q4
+872,2022-07-14,Sandwich,Fastfood,60,12,720,Cash,Male,Afternoon,Jul,2022,Jul 2022,Thursday,2022Q3
+873,2022-05-09,Sugarcane juice,Beverages,25,1,25,Online,Male,Night,May,2022,May 2022,Monday,2022Q2
+874,2022-05-09,Cold coffee,Beverages,40,4,160,Cash,Male,Midnight,May,2022,May 2022,Monday,2022Q2
+875,2022-08-05,Vadapav,Fastfood,20,15,300,Cash,Male,Evening,Aug,2022,Aug 2022,Friday,2022Q3
+876,2022-06-10,Cold coffee,Beverages,40,8,320,Online,Female,Evening,Jun,2022,Jun 2022,Friday,2022Q2
+877,2022-10-27,Sugarcane juice,Beverages,25,14,350,Cash,Female,Afternoon,Oct,2022,Oct 2022,Thursday,2022Q4
+878,2022-08-12,Sandwich,Fastfood,60,6,360,Online,Male,Evening,Aug,2022,Aug 2022,Friday,2022Q3
+879,2022-11-06,Cold coffee,Beverages,40,9,360,Cash,Female,Evening,Nov,2022,Nov 2022,Sunday,2022Q4
+880,2022-06-25,Sugarcane juice,Beverages,25,5,125,Cash,Female,Morning,Jun,2022,Jun 2022,Saturday,2022Q2
+881,2022-05-25,Sandwich,Fastfood,60,2,120,Cash,Male,Midnight,May,2022,May 2022,Wednesday,2022Q2
+882,2022-04-23,Panipuri,Fastfood,20,9,180,Online,Male,Morning,Apr,2022,Apr 2022,Saturday,2022Q2
+883,2022-08-24,Aalopuri,Fastfood,20,5,100,Online,Female,Midnight,Aug,2022,Aug 2022,Wednesday,2022Q3
+884,2023-03-01,Vadapav,Fastfood,20,12,240,Online,Male,Night,Mar,2023,Mar 2023,Wednesday,2023Q1
+885,2022-10-16,Sugarcane juice,Beverages,25,4,100,Cash,Male,Evening,Oct,2022,Oct 2022,Sunday,2022Q4
+886,2022-07-21,Sugarcane juice,Beverages,25,4,100,Cash,Female,Night,Jul,2022,Jul 2022,Thursday,2022Q3
+887,2022-10-24,Aalopuri,Fastfood,20,3,60,Cash,Male,Morning,Oct,2022,Oct 2022,Monday,2022Q4
+888,2022-09-05,Vadapav,Fastfood,20,8,160,Cash,Male,Evening,Sep,2022,Sep 2022,Monday,2022Q3
+889,2022-04-12,Vadapav,Fastfood,20,10,200,Online,Male,Midnight,Apr,2022,Apr 2022,Tuesday,2022Q2
+890,2023-03-03,Sugarcane juice,Beverages,25,5,125,Cash,Female,Morning,Mar,2023,Mar 2023,Friday,2023Q1
+891,2022-12-27,Cold coffee,Beverages,40,11,440,Cash,Male,Midnight,Dec,2022,Dec 2022,Tuesday,2022Q4
+892,2022-07-14,Sugarcane juice,Beverages,25,7,175,Online,Female,Evening,Jul,2022,Jul 2022,Thursday,2022Q3
+893,2022-07-13,Sugarcane juice,Beverages,25,12,300,Cash,Female,Afternoon,Jul,2022,Jul 2022,Wednesday,2022Q3
+894,2023-03-19,Sandwich,Fastfood,60,15,900,Cash,Male,Morning,Mar,2023,Mar 2023,Sunday,2023Q1
+895,2023-01-03,Sugarcane juice,Beverages,25,11,275,Cash,Male,Afternoon,Jan,2023,Jan 2023,Tuesday,2023Q1
+896,2022-10-30,Aalopuri,Fastfood,20,13,260,Cash,Male,Night,Oct,2022,Oct 2022,Sunday,2022Q4
+897,2022-08-22,Aalopuri,Fastfood,20,6,120,Online,Male,Morning,Aug,2022,Aug 2022,Monday,2022Q3
+898,2023-03-02,Frankie,Fastfood,50,8,400,Cash,Male,Afternoon,Mar,2023,Mar 2023,Thursday,2023Q1
+899,2023-01-24,Aalopuri,Fastfood,20,7,140,Cash,Male,Midnight,Jan,2023,Jan 2023,Tuesday,2023Q1
+900,2022-12-07,Sugarcane juice,Beverages,25,9,225,Online,Male,Afternoon,Dec,2022,Dec 2022,Wednesday,2022Q4
+901,2022-12-24,Vadapav,Fastfood,20,7,140,Online,Female,Morning,Dec,2022,Dec 2022,Saturday,2022Q4
+902,2022-11-23,Frankie,Fastfood,50,4,200,Online,Male,Afternoon,Nov,2022,Nov 2022,Wednesday,2022Q4
+903,2023-01-01,Aalopuri,Fastfood,20,15,300,Online,Male,Night,Jan,2023,Jan 2023,Sunday,2023Q1
+904,2023-03-12,Aalopuri,Fastfood,20,4,80,Cash,Female,Midnight,Mar,2023,Mar 2023,Sunday,2023Q1
+905,2022-12-13,Frankie,Fastfood,50,15,750,Cash,Female,Midnight,Dec,2022,Dec 2022,Tuesday,2022Q4
+906,2022-04-04,Sandwich,Fastfood,60,15,900,Cash,Male,Afternoon,Apr,2022,Apr 2022,Monday,2022Q2
+907,2022-10-19,Cold coffee,Beverages,40,4,160,unknown,Female,Midnight,Oct,2022,Oct 2022,Wednesday,2022Q4
+908,2023-03-06,Sandwich,Fastfood,60,7,420,Cash,Female,Night,Mar,2023,Mar 2023,Monday,2023Q1
+909,2023-02-21,Cold coffee,Beverages,40,12,480,Online,Female,Morning,Feb,2023,Feb 2023,Tuesday,2023Q1
+910,2022-10-09,Panipuri,Fastfood,20,1,20,Cash,Female,Afternoon,Oct,2022,Oct 2022,Sunday,2022Q4
+911,2022-04-09,Sandwich,Fastfood,60,1,60,Cash,Male,Evening,Apr,2022,Apr 2022,Saturday,2022Q2
+912,2022-09-17,Aalopuri,Fastfood,20,6,120,Cash,Male,Evening,Sep,2022,Sep 2022,Saturday,2022Q3
+913,2023-02-15,Frankie,Fastfood,50,15,750,Online,Male,Evening,Feb,2023,Feb 2023,Wednesday,2023Q1
+914,2023-03-01,Sandwich,Fastfood,60,14,840,Cash,Male,Night,Mar,2023,Mar 2023,Wednesday,2023Q1
+915,2022-10-07,Cold coffee,Beverages,40,7,280,Online,Male,Afternoon,Oct,2022,Oct 2022,Friday,2022Q4
+916,2022-11-17,Cold coffee,Beverages,40,15,600,unknown,Female,Afternoon,Nov,2022,Nov 2022,Thursday,2022Q4
+917,2022-05-15,Vadapav,Fastfood,20,15,300,Online,Male,Evening,May,2022,May 2022,Sunday,2022Q2
+918,2022-11-12,Panipuri,Fastfood,20,6,120,Cash,Male,Evening,Nov,2022,Nov 2022,Saturday,2022Q4
+919,2023-01-03,Vadapav,Fastfood,20,8,160,Online,Female,Evening,Jan,2023,Jan 2023,Tuesday,2023Q1
+920,2022-07-12,Frankie,Fastfood,50,13,650,Online,Male,Evening,Jul,2022,Jul 2022,Tuesday,2022Q3
+921,2022-09-21,Vadapav,Fastfood,20,14,280,Cash,Male,Midnight,Sep,2022,Sep 2022,Wednesday,2022Q3
+922,2022-06-13,Frankie,Fastfood,50,5,250,Online,Female,Evening,Jun,2022,Jun 2022,Monday,2022Q2
+923,2022-05-30,Cold coffee,Beverages,40,3,120,Online,Male,Morning,May,2022,May 2022,Monday,2022Q2
+924,2022-12-17,Panipuri,Fastfood,20,14,280,Cash,Male,Afternoon,Dec,2022,Dec 2022,Saturday,2022Q4
+925,2022-04-10,Frankie,Fastfood,50,4,200,Online,Female,Afternoon,Apr,2022,Apr 2022,Sunday,2022Q2
+926,2023-02-27,Frankie,Fastfood,50,15,750,Cash,Female,Afternoon,Feb,2023,Feb 2023,Monday,2023Q1
+927,2022-12-02,Cold coffee,Beverages,40,6,240,unknown,Female,Evening,Dec,2022,Dec 2022,Friday,2022Q4
+928,2022-04-07,Sandwich,Fastfood,60,11,660,Online,Male,Evening,Apr,2022,Apr 2022,Thursday,2022Q2
+929,2022-06-06,Frankie,Fastfood,50,9,450,Online,Female,Night,Jun,2022,Jun 2022,Monday,2022Q2
+930,2022-11-27,Sugarcane juice,Beverages,25,10,250,Online,Male,Night,Nov,2022,Nov 2022,Sunday,2022Q4
+931,2022-06-26,Aalopuri,Fastfood,20,15,300,Cash,Male,Afternoon,Jun,2022,Jun 2022,Sunday,2022Q2
+932,2022-10-18,Sandwich,Fastfood,60,9,540,Online,Male,Afternoon,Oct,2022,Oct 2022,Tuesday,2022Q4
+933,2023-01-21,Sugarcane juice,Beverages,25,15,375,Online,Female,Afternoon,Jan,2023,Jan 2023,Saturday,2023Q1
+934,2022-09-19,Cold coffee,Beverages,40,4,160,Cash,Female,Afternoon,Sep,2022,Sep 2022,Monday,2022Q3
+935,2023-02-17,Sandwich,Fastfood,60,12,720,Cash,Male,Midnight,Feb,2023,Feb 2023,Friday,2023Q1
+936,2022-08-10,Panipuri,Fastfood,20,2,40,unknown,Male,Midnight,Aug,2022,Aug 2022,Wednesday,2022Q3
+937,2022-06-22,Panipuri,Fastfood,20,4,80,Cash,Male,Night,Jun,2022,Jun 2022,Wednesday,2022Q2
+938,2022-08-10,Sugarcane juice,Beverages,25,14,350,Cash,Male,Evening,Aug,2022,Aug 2022,Wednesday,2022Q3
+939,2023-02-19,Vadapav,Fastfood,20,15,300,Online,Male,Midnight,Feb,2023,Feb 2023,Sunday,2023Q1
+940,2023-02-07,Sugarcane juice,Beverages,25,14,350,Online,Female,Midnight,Feb,2023,Feb 2023,Tuesday,2023Q1
+941,2023-02-10,Cold coffee,Beverages,40,10,400,Online,Female,Morning,Feb,2023,Feb 2023,Friday,2023Q1
+942,2022-07-20,Frankie,Fastfood,50,6,300,Cash,Male,Night,Jul,2022,Jul 2022,Wednesday,2022Q3
+943,2022-06-30,Vadapav,Fastfood,20,6,120,Cash,Female,Night,Jun,2022,Jun 2022,Thursday,2022Q2
+944,2022-05-12,Aalopuri,Fastfood,20,2,40,Cash,Male,Midnight,May,2022,May 2022,Thursday,2022Q2
+945,2022-05-15,Cold coffee,Beverages,40,2,80,Online,Female,Afternoon,May,2022,May 2022,Sunday,2022Q2
+946,2023-02-21,Sandwich,Fastfood,60,8,480,Cash,Male,Midnight,Feb,2023,Feb 2023,Tuesday,2023Q1
+947,2022-08-16,Aalopuri,Fastfood,20,11,220,Online,Male,Night,Aug,2022,Aug 2022,Tuesday,2022Q3
+948,2023-01-16,Sandwich,Fastfood,60,10,600,Online,Male,Evening,Jan,2023,Jan 2023,Monday,2023Q1
+949,2023-01-07,Panipuri,Fastfood,20,1,20,Cash,Female,Evening,Jan,2023,Jan 2023,Saturday,2023Q1
+950,2022-09-25,Frankie,Fastfood,50,6,300,Online,Female,Evening,Sep,2022,Sep 2022,Sunday,2022Q3
+951,2022-11-11,Panipuri,Fastfood,20,11,220,Cash,Female,Afternoon,Nov,2022,Nov 2022,Friday,2022Q4
+952,2022-09-24,Aalopuri,Fastfood,20,14,280,Cash,Female,Evening,Sep,2022,Sep 2022,Saturday,2022Q3
+953,2022-11-10,Sandwich,Fastfood,60,2,120,Online,Female,Afternoon,Nov,2022,Nov 2022,Thursday,2022Q4
+954,2023-01-31,Aalopuri,Fastfood,20,3,60,Cash,Female,Midnight,Jan,2023,Jan 2023,Tuesday,2023Q1
+955,2023-01-27,Sugarcane juice,Beverages,25,7,175,Online,Male,Afternoon,Jan,2023,Jan 2023,Friday,2023Q1
+956,2022-04-30,Frankie,Fastfood,50,13,650,Online,Male,Morning,Apr,2022,Apr 2022,Saturday,2022Q2
+957,2023-02-08,Panipuri,Fastfood,20,3,60,Online,Female,Midnight,Feb,2023,Feb 2023,Wednesday,2023Q1
+958,2022-05-22,Sandwich,Fastfood,60,11,660,Online,Female,Night,May,2022,May 2022,Sunday,2022Q2
+959,2022-11-28,Vadapav,Fastfood,20,8,160,Online,Female,Midnight,Nov,2022,Nov 2022,Monday,2022Q4
+960,2022-08-12,Sugarcane juice,Beverages,25,15,375,Online,Female,Evening,Aug,2022,Aug 2022,Friday,2022Q3
+961,2023-03-14,Frankie,Fastfood,50,13,650,Cash,Male,Night,Mar,2023,Mar 2023,Tuesday,2023Q1
+962,2022-05-18,Frankie,Fastfood,50,13,650,Online,Female,Afternoon,May,2022,May 2022,Wednesday,2022Q2
+963,2022-10-05,Vadapav,Fastfood,20,6,120,Cash,Female,Morning,Oct,2022,Oct 2022,Wednesday,2022Q4
+964,2022-05-07,Cold coffee,Beverages,40,8,320,Cash,Male,Evening,May,2022,May 2022,Saturday,2022Q2
+965,2022-10-08,Frankie,Fastfood,50,5,250,Online,Female,Night,Oct,2022,Oct 2022,Saturday,2022Q4
+966,2023-03-19,Panipuri,Fastfood,20,11,220,Online,Female,Morning,Mar,2023,Mar 2023,Sunday,2023Q1
+967,2022-06-29,Cold coffee,Beverages,40,14,560,Cash,Male,Afternoon,Jun,2022,Jun 2022,Wednesday,2022Q2
+968,2022-08-09,Cold coffee,Beverages,40,15,600,Cash,Female,Morning,Aug,2022,Aug 2022,Tuesday,2022Q3
+969,2022-11-06,Cold coffee,Beverages,40,11,440,Cash,Male,Morning,Nov,2022,Nov 2022,Sunday,2022Q4
+970,2022-11-21,Aalopuri,Fastfood,20,5,100,Online,Female,Afternoon,Nov,2022,Nov 2022,Monday,2022Q4
+971,2022-10-02,Frankie,Fastfood,50,2,100,Cash,Female,Morning,Oct,2022,Oct 2022,Sunday,2022Q4
+972,2023-03-11,Aalopuri,Fastfood,20,1,20,Cash,Female,Afternoon,Mar,2023,Mar 2023,Saturday,2023Q1
+973,2022-06-07,Sugarcane juice,Beverages,25,1,25,unknown,Female,Morning,Jun,2022,Jun 2022,Tuesday,2022Q2
+974,2023-01-28,Vadapav,Fastfood,20,13,260,Online,Male,Afternoon,Jan,2023,Jan 2023,Saturday,2023Q1
+975,2023-01-15,Aalopuri,Fastfood,20,1,20,Cash,Male,Midnight,Jan,2023,Jan 2023,Sunday,2023Q1
+976,2022-04-17,Sugarcane juice,Beverages,25,11,275,unknown,Female,Morning,Apr,2022,Apr 2022,Sunday,2022Q2
+977,2023-01-05,Aalopuri,Fastfood,20,1,20,Cash,Male,Evening,Jan,2023,Jan 2023,Thursday,2023Q1
+978,2022-10-08,Frankie,Fastfood,50,2,100,Online,Male,Night,Oct,2022,Oct 2022,Saturday,2022Q4
+979,2022-05-21,Aalopuri,Fastfood,20,13,260,Cash,Female,Midnight,May,2022,May 2022,Saturday,2022Q2
+980,2022-06-20,Vadapav,Fastfood,20,9,180,Online,Male,Morning,Jun,2022,Jun 2022,Monday,2022Q2
+981,2023-01-22,Panipuri,Fastfood,20,15,300,Online,Male,Midnight,Jan,2023,Jan 2023,Sunday,2023Q1
+982,2023-03-30,Sugarcane juice,Beverages,25,14,350,Cash,Female,Night,Mar,2023,Mar 2023,Thursday,2023Q1
+983,2023-03-17,Cold coffee,Beverages,40,10,400,unknown,Female,Night,Mar,2023,Mar 2023,Friday,2023Q1
+984,2023-01-07,Frankie,Fastfood,50,3,150,Cash,Male,Afternoon,Jan,2023,Jan 2023,Saturday,2023Q1
+985,2022-06-14,Frankie,Fastfood,50,1,50,Cash,Female,Afternoon,Jun,2022,Jun 2022,Tuesday,2022Q2
+986,2022-04-30,Sugarcane juice,Beverages,25,13,325,Online,Male,Night,Apr,2022,Apr 2022,Saturday,2022Q2
+987,2023-01-04,Vadapav,Fastfood,20,3,60,Cash,Female,Evening,Jan,2023,Jan 2023,Wednesday,2023Q1
+988,2023-01-03,Frankie,Fastfood,50,13,650,unknown,Female,Night,Jan,2023,Jan 2023,Tuesday,2023Q1
+989,2022-10-11,Cold coffee,Beverages,40,13,520,Cash,Male,Afternoon,Oct,2022,Oct 2022,Tuesday,2022Q4
+990,2022-11-24,Vadapav,Fastfood,20,10,200,Online,Female,Morning,Nov,2022,Nov 2022,Thursday,2022Q4
+991,2023-01-18,Sandwich,Fastfood,60,7,420,Cash,Female,Night,Jan,2023,Jan 2023,Wednesday,2023Q1
+992,2022-10-21,Sandwich,Fastfood,60,5,300,Cash,Male,Morning,Oct,2022,Oct 2022,Friday,2022Q4
+993,2022-07-17,Frankie,Fastfood,50,3,150,Online,Female,Night,Jul,2022,Jul 2022,Sunday,2022Q3
+994,2022-11-01,Panipuri,Fastfood,20,2,40,Online,Female,Evening,Nov,2022,Nov 2022,Tuesday,2022Q4
+995,2022-06-18,Sugarcane juice,Beverages,25,1,25,Online,Male,Night,Jun,2022,Jun 2022,Saturday,2022Q2
+996,2023-03-19,Frankie,Fastfood,50,10,500,unknown,Female,Evening,Mar,2023,Mar 2023,Sunday,2023Q1
+997,2022-09-20,Sandwich,Fastfood,60,7,420,unknown,Male,Evening,Sep,2022,Sep 2022,Tuesday,2022Q3
+998,2023-01-26,Sandwich,Fastfood,60,13,780,unknown,Male,Evening,Jan,2023,Jan 2023,Thursday,2023Q1
+999,2022-08-27,Panipuri,Fastfood,20,5,100,unknown,Female,Afternoon,Aug,2022,Aug 2022,Saturday,2022Q3
+1000,2022-05-29,Aalopuri,Fastfood,20,3,60,Online,Female,Midnight,May,2022,May 2022,Sunday,2022Q2
