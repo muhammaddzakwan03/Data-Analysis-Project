@@ -6,11 +6,13 @@ Tujuan dari pembuatan analisis ini adalah untuk mengetahui tren penjualan, kontr
 ---
 
 ## Tujuan Analisis
-1. Mengetahui total penjualan, jumlah transaksi, dan revenue restoran.
-2. Melihat tren penjualan bulanan sepanjang tahun.
+1. Menghitung total revenue, total penjualan, total transaksi, average price, dan average purchase.
+2. Menganalisis tren penjualan berdasarkan periode waktu.
 3. Mengidentifikasi top 3 produk dengan revenue dan kuantitas tertinggi.
-4. Mengetahui preferensi jenis pembayaran dan performa kasir.
-5. Menentukan waktu transaksi paling ramai.
+4. Mengetahui waktu transaksi paling ramai (per hari dan per waktu).
+5. Mengidentifikasi preferensi jenis pembayaran pelanggan.
+6. Menilai kontribusi kasir terhadap total transaksi.
+7. Memberikan insight keputusan berbasis data untuk operasional restoran.
 
 ---
 
@@ -38,19 +40,34 @@ restaurant_sales_dashboard :
 ### Insight Utama:
 - **Total Revenue:** Rp 275.23 Rb  
 - **Total Penjualan:** 8.162 Rb  
-- **Total Transaksi:** 1 Rb  
+- **Total Transaksi:** 1 Rb
+- **Average Price**: $33.315
+- **Average Purchase**: $275.23
 
-**Temuan menarik:**
-- Bulan **November** memiliki penjualan tertinggi.  
-- Produk **Sandwich** menjadi penyumbang revenue terbesar.  
-- **Cash** masih menjadi metode pembayaran dominan (48%).  
-- **Kasir perempuan** menangani sedikit lebih banyak transaksi (52%).  
-- Periode **malam hari** memiliki transaksi tertinggi.
+**Tren Penjualan**
+- Penjualan bergerak naik menuju 2023Q1 mencapai 80 Rb, menunjukkan peningkatan performa.
+
+**Top 3 Item**
+- By Revenue: Sandwich (66 Rb), Frankie (58 Rb), Cold coffee (54 Rb)
+- By Quantity: Cold coffee (1.4 Rb), Frankie (1.2 Rb), Sandwich (1.1 Rb)
+
+**Waktu Transaksi**
+- Per Day: Terbanyak pada hari Minggu (44 Rb).
+- Per Time: Puncak transaksi pada Night (62 Rb), diikuti Afternoon dan Morning.
+
+**Jenis Pembayaran**
+- Cash mendominasi: 48.27%
+- Diikuti Online & Unknown.
+
+**Kontribusi Cashier**
+- Female: 52.12%
+- Male: 47.88%
 
 ---
 
 ## Proses Analisis
 ### 1. Python
+- Cleaning data duplikasi dan hilang
 - Mengubah format tanggal ke `YYYY-MM-DD`
 - Menangani nilai kosong pada kolom `transaction_type`
 - Mengekspor data bersih ke CSV untuk MySQL
